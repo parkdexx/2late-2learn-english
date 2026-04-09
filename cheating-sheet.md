@@ -5,46 +5,22 @@
 
 <br>
 
+
+
+<br>
+
+## 2026-04-10
+
+### 1. 형용사 처럼 보이는 명사들 (-al 로 끝나는 함정)
+- Arrival	[명사] :	도착
+- Approval	[명사] :	승인
+- Renewal	[명사] :	갱신
+- Proposal	[명사] :	제안
+- Professional	[명사/형용사] :	전문가 / 전문적인
+
+<br>
+
 ## 2026-04-09
-
-```
-The newly appointed executive / diligently monitored / the compliance / of all departments / with the revised / environmental safety regulations.
-
-2.1. Appointed
-뜻: 임명된
-품사: 형용사 (과거분사)
-역할: 명사 executive를 수식
-
-2.2. Executive
-뜻: 임원, 경영진
-품사: 명사
-역할: 문장의 주어
-
-2.3. Diligently
-뜻: 부지런히, 성실히
-품사: 부사
-역할: 동사 monitored를 수식
-
-2.5. Compliance
-뜻: (준수, 따름)
-품사: 명사
-역할: 동사 monitored의 목적어
-
-2.7. Revised
-뜻: 개정된, 수정된
-품사: 형용사 (과거분사)
-역할: 명사 regulations를 수식
-
-2.6. Environmental
-뜻: 환경의, 환경과 관련된
-품사: 형용사
-역할: 명사 regulations를 수식
-
-2.10. Regulations
-뜻: 규정, 법규
-품사: 명사
-역할: 전치사 with의 목적어
-```
 
 ### 1. 수동태 (be + pp) / 주어가 당하는 동작
 - All staff members are required to maintain compliance
