@@ -2,6 +2,59 @@
 # cheating sheet
 > 내가 영어 공부하면서, 우선 대충 외우기로 작정한 형태입니다. 
 > 잘못된 정보가 가득합니다.
+
+<br>
+
+## 2026-04-09
+
+```
+The newly appointed executive / diligently monitored / the compliance / of all departments / with the revised / environmental safety regulations.
+
+2.1. Appointed
+뜻: 임명된
+품사: 형용사 (과거분사)
+역할: 명사 executive를 수식
+
+2.2. Executive
+뜻: 임원, 경영진
+품사: 명사
+역할: 문장의 주어
+
+2.3. Diligently
+뜻: 부지런히, 성실히
+품사: 부사
+역할: 동사 monitored를 수식
+
+2.5. Compliance
+뜻: (준수, 따름)
+품사: 명사
+역할: 동사 monitored의 목적어
+
+2.7. Revised
+뜻: 개정된, 수정된
+품사: 형용사 (과거분사)
+역할: 명사 regulations를 수식
+
+2.6. Environmental
+뜻: 환경의, 환경과 관련된
+품사: 형용사
+역할: 명사 regulations를 수식
+
+2.10. Regulations
+뜻: 규정, 법규
+품사: 명사
+역할: 전치사 with의 목적어
+```
+
+### 1. 수동태 (be + pp) / 주어가 당하는 동작
+- All staff members are required to maintain compliance
+  - 여기서 수동태 : be required 
+
+
+### 2. 동사를 꾸며주는건? = 부사
+- 부사의 형태 : -ly, hard, fast
+
+
 <br>
 
 ## 2026-04-07
@@ -46,6 +99,7 @@ He will be a great leader
   - increase/decrease (증가/감소하다)
 
 <br>
+
 ## 2026-04-06
 
 ### 1. -ed 형태 동사, 형용사 구분
