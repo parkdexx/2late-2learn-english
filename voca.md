@@ -1,4 +1,5 @@
 ```
+{문서 하단에 새로 기입 하시오}
 
 2.1. Appointed
 뜻: 임명된
@@ -102,6 +103,46 @@ The logistics coordinator / inadvertently omitted / the customs documentation / 
 역할: 전치사 of의 목적어 (Port of entry: 입국항)
 The logistics coordinator / inadvertently omitted / the customs documentation / required for the international shipment, / resulting in / an unforeseen delay / at the port of **entry**.
 
+2.1. Administrative
+뜻: 행정의, 관리의
+품사: 형용사
+역할: 명사 assistant를 수식
+The **administrative** assistant / is responsible / for coordinating / the upcoming itinerary / for the executive delegation / visiting / the overseas subsidiary.
 
+2.2. Responsible
+뜻: 책임이 있는
+품사: 형용사
+역할: 주격 보어 (be 동사 뒤)
+The administrative assistant / is **responsible** / for coordinating / the upcoming itinerary / for the executive delegation / visiting / the overseas subsidiary.
+
+2.3. Coordinating
+뜻: 조정하다, 편성하다
+품사: 동명사 (전치사 for의 목적어)
+역할: 뒤에 오는 itinerary를 목적어로 취함
+The administrative assistant / is responsible / for **coordinating** / the upcoming itinerary / for the executive delegation / visiting / the overseas subsidiary.
+
+2.4. Upcoming
+뜻: 다가오는, 곧 있을
+품사: 형용사
+역할: 명사 itinerary를 수식
+The administrative assistant / is responsible / for coordinating / the **upcoming** itinerary / for the executive delegation / visiting / the overseas subsidiary.
+
+2.5. Itinerary
+뜻: 여정, 여행 일정표
+품사: 명사
+역할: 동명사 coordinating의 목적어
+The administrative assistant / is responsible / for coordinating / the upcoming **itinerary** / for the executive delegation / visiting / the overseas subsidiary.
+
+2.6. Executive
+뜻: 임원, 경영진, 관리직의
+품사: 형용사 (또는 명사)
+역할: 명사 delegation을 수식
+The administrative assistant / is responsible / for coordinating / the upcoming itinerary / for the **executive** delegation / visiting / the overseas subsidiary.
+
+2.10. Subsidiary
+뜻: 자회사, 부수적인 것
+품사: 명사
+역할: 현재분사 visiting의 목적어
+The administrative assistant / is responsible / for coordinating / the upcoming itinerary / for the executive delegation / visiting / the overseas **subsidiary**.
 
 ```
