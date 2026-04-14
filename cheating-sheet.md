@@ -5,6 +5,45 @@
 
 <br>
 
+## 2026-04-14
+
+```
+1. 다음 빈칸에 알맞은 단어를 고르세요.
+
+The board of directors is currently searching for a candidate who possesses __________ leadership skills and extensive experience in the industry.
+
+(A) except
+(B) exception
+(C) exceptional
+(D) exceptionally
+```
+
+### 풀이
+
+- A : 동사 prossesses 의 목적어 자리인데 전치사가 왜? 
+- B : exception + leadership skills 는 복합명사가 아님
+- C : 뒤에 올 명사 leadership skills 를 꾸며주는 형용사로 정답
+- D : 뒤에 올 명사 leadership skills 를 꾸며줘야 하는데 부사가 왜?
+
+### 해석
+
+- The board of directors: 이사회 (주어)
+- is currently searching for: 현재 ~을 찾고 있다 (동사구)
+- a candidate: 후보자를 (목적어)
+- who possesses: (~을) 갖춘 (관계대명사절 시작)
+- exceptional leadership skills: 뛰어난 리더십 기술을 (관계절 내 목적어 1)
+- and extensive experience: 그리고 폭넓은 경험을 (관계절 내 목적어 2)
+- in the industry: 업계에서의 (수식어)
+
+### 단어
+- currently ⏱️	부사	현재, 지금
+- candidate 👤	명사	후보자, 지원자
+- possesses ✨	동사	(자질·특징 등을) 갖추다, 소유하다
+- exceptional 🌟	형용사	뛰어난, 이례적인
+- extensive 🌊	형용사	폭넓은, 광범위한
+
+<br>
+
 ## 2026-04-11
 
 ### 1. 현재분사(v -ing) 는 명사를 꾸며주는 형용사
