@@ -48,6 +48,7 @@ The board of directors is currently searching for a candidate who possesses ____
 
 ### 1. 현재분사(v -ing) 는 명사를 꾸며주는 형용사
 - 동사 출신 형용사이다
+  - be + ing 전체는 동사 역할을 함
 - 현재분사(ing) : 능동/진행(~ 하고 있는)
 - 과거분사(pp) : 수동/완료(~된, ~해버린)
 

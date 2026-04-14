@@ -145,4 +145,34 @@ The administrative assistant / is responsible / for coordinating / the upcoming 
 역할: 현재분사 visiting의 목적어
 The administrative assistant / is responsible / for coordinating / the upcoming itinerary / for the executive delegation / visiting / the overseas **subsidiary**.
 
+2.1. Logistics
+뜻: 물류, 실행 계획
+품사: 명사
+역할: 명사 coordinator를 수식하여 복합 명사 형성
+The logistics coordinator / is currently evaluating / several potential vendors / to establish / a long-term partnership / for the overseas distribution / of the new product line.
+
+2.2. Coordinator
+뜻: 조정자, 진행자
+품사: 명사
+역할: 문장의 주어
+The logistics coordinator / is currently evaluating / several potential vendors / to establish / a long-term partnership / for the overseas distribution / of the new product line.
+
+2.3. Currently
+뜻: 현재, 지금
+품사: 부사
+역할: 진행형 동사 is evaluating을 수식
+The logistics coordinator / is currently evaluating / several potential vendors / to establish / a long-term partnership / for the overseas distribution / of the new product line.
+
+2.4. Evaluating
+뜻: 평가하다, 감정하다
+품사: 동사 (현재분사 형태)
+역할: 현재 진행형 시제의 본동사
+The logistics coordinator / is currently evaluating / several potential vendors / to establish / a long-term partnership / for the overseas distribution / of the new product line.
+
+2.10. Distribution
+뜻: 유통, 배급, 배포
+품사: 명사
+역할: 전치사 for의 목적어
+The logistics coordinator / is currently evaluating / several potential vendors / to establish / a long-term partnership / for the overseas distribution / of the new product line.
+
 ```
