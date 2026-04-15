@@ -5,6 +5,31 @@
 
 <br>
 
+## 2026-04-15
+```
+The manager requested that all employees submit their weekly reports ------- the end of the business day on Friday.
+
+(A) within
+(B) by
+(C) until
+(D) for
+```
+
+### 풀이
+- (A) within : ~이내에 / 뒤에 기간이 나와야 함 / Friday 라는 시점이 왔기 때문에 안됨
+- (B) by : ~까지 / 뒤에 시점과, 완료의 상태가 나와야 함 / Friday 라는 시점과, submit 하면 완료되는 상황이라서 ok
+- (C) until : ~까지 / 뒤에 시점과, 지속의 상태가 나와야 함 / Friday 시점은 ok 인데, submit 을 지속하는건 아니니까 ng
+- (D) for : ~동안 / 뒤에 기간이 나와야 함 / Friday 라는 시점이 왔기 때문에 안됨
+
+### 해석
+- The manager requested (주어 + 동사): 매니저는 요청했다
+- that all employees submit (접속사 + 목적어절): 모든 직원이 제출할 것을
+- their weekly reports (제출의 목적어): 그들의 주간 보고서를
+- by the end of the business day (시간 전치사구 1): 업무 시간 종료 전까지
+- on Friday (시간 전치사구 2): 금요일에
+
+<br>
+
 ## 2026-04-14
 
 ```
