@@ -5,6 +5,63 @@
 
 <br>
 
+## 2026-04-16
+```
+The shipment cannot be dispatched unless payment ______ in full.
+
+A) receives
+B) is received
+C) received
+D) has received
+```
+
+### 풀이
+- A : receive 가 쓰이게 되면 능동태가 되어 해석이 이상해짐
+- B : 수동태, 뒤에 in full 이라는 부사구와 어울림
+- C : 과거형, 수동태가 되려면 be 동사가 필요함
+- D : 현재완료 수동태, 문맥상 현재 시점의 상황이므로 현재형이 더 적절함 / unless 절은 미래 의미라도 현재시제로 표현함
+
+### 해석
+- The shipment cannot be dispatched: 그 배송은 발송될 수 없다 (주절)
+- unless payment is received in full: 대금이 전액 지급되지 않는다면 (부사절)
+
+### 단어
+- shipment 📦	명사	배송, 선적
+- dispatch 🚀	동사	발송하다, 급파하다
+- payment 💰	명사	지불, 결제
+- in full 💯	부사구	전액, 완전히
+
+<br>
+
+```
+The director’s ______ to detail impressed the clients during the presentation.
+
+A) attend
+B) attentive
+C) attention
+D) attentively
+```
+
+### 풀이
+- A : attend 는 동사, 빈칸에는 명사가 와야 함
+- B : attentive 는 형용사, 소유격 뒤 명사가 와야 함
+- C : 명사, 뒤에 to detail 이라는 명사와 어울림
+- D : 부사, 명사를 꾸며줄 수 없음
+
+### 해석
+- The director’s attention to detail: 그 이사의 세심한 주의력 (주절)
+- impressed the clients: 고객들에게 깊은 인상을 주었다 (동사구)
+- during the presentation: 발표 중에 (시간 부사구)
+
+### 단어
+- director 👤	명사	이사, 감독
+- attention 💡	명사	주의력, 관심
+- detail 🔍	명사	세부 사항
+- impressed ✨	동사	깊은 인상을 주다
+- presentation 🎤	명사	발표
+
+<br>
+
 ## 2026-04-15
 ```
 The manager requested that all employees submit their weekly reports ------- the end of the business day on Friday.
