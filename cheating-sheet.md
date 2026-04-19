@@ -5,6 +5,69 @@
 
 <br>
 
+## 2026-04-19
+```
+The technical support team is available to assist customers _______ the installation process of the new software.
+
+(A) throughout
+(B) among
+(C) across
+(D) between
+```
+
+### 풀이
+- (A) throughout : 과정 내내(전반에 걸쳐)
+- (B) among : ~들 사이에 / 주로 셋 이상의 사람이나 사물 사이에 있을 때 사용. 뒤에 '과정(process)'과 같은 단일 개념의 명사가 오기에는 부적절
+- (C) across : ~을 가로질러, 전역에 / 주로 장소나 지역과 함께 쓰여 "전 지역에 걸쳐"라는 의미로 사용. 시간적/절차적 흐름을 나타내는 '과정'과는 잘 어울리지 않음
+- (D) between : (둘) 사이에	/ 보통 between A and B 형태나 둘을 나타내는 복수 명사와 함께 쓰임. 하나의 과정 내에서의 지속성을 나타내기에는 부족.
+
+### 해석
+- The technical support team: 기술 지원팀 (주어)
+- is available to assist customers: 고객을 지원할 수 있다 (동사구)
+- throughout the installation process: 설치 과정 내내 (시간 부사구)
+- of the new software: 새로운 소프트웨어의 (수식어)
+
+### 단어
+- technical support 📦	명사	기술 지원
+- available ⏰	형용사	이용할 수 있는, 시간이 있는
+- assist 🤝	동사	돕다, 지원하다
+- installation ⚙️	명사	설치
+- process 🔄	명사	과정
+
+<br>
+
+```
+The marketing director was _______ about the new advertising campaign, citing its innovative approach and potential for high engagement.
+
+(A) hesitant
+(B) optimistic
+(C) incidental
+(D) stagnant
+```
+
+### 풀이
+- (A) hesitant : 형용사 (주저하는) / 뒤에 언급된 내용이 매우 긍정적이기 때문에, 망설이거나 주저한다는 표현은 논리적으로 어울리지 않음.
+- (B) optimistic : 형용사 (낙관적인) / 성공 가능성과 혁신성을 강조하는 상황에서 "낙관적이다/긍정적이다"라는 표현이 가장 적절함.
+- (C) incidental : 형용사 (부수적인) / '주된 것이 아닌 곁달아 일어나는'이라는 뜻. 이사가 캠페인의 핵심 장점들을 설명하는 상황과는 거리가 멀다.
+- (D) stagnant : 형용사 (정체된) / 흐르지 않고 고여 있거나 발전이 없는 상태를 뜻함. 혁신적이고 잠재력이 높다는 설명과 정반대되는 단어임.
+
+### 해석
+- The marketing director: 마케팅 이사 (주어)
+- was optimistic: 낙관적이었다 (동사구)
+- about the new advertising campaign: 새로운 광고 캠페인에 대해 (전치사구)
+- citing its innovative approach: 그것의 혁신적인 접근법을 언급하면서 (분사구문)
+- and potential for high engagement: 그리고 높은 참여 가능성을 (분사구문)
+
+### 단어
+- marketing director 📦	명사	마케팅 이사
+- optimistic ☀️	형용사	낙관적인
+- advertising campaign 📢	명사	광고 캠페인
+- innovative ✨	형용사	혁신적인
+- potential 🔮	명사	잠재력
+- engagement 👥	명사	참여, 몰입
+
+<br>
+
 ## 2026-04-16
 ```
 The shipment cannot be dispatched unless payment ______ in full.
