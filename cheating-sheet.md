@@ -5,118 +5,38 @@
 
 <br>
 
-## 2026-04-21
-```
-No sooner ______ the contract signed than the legal team began drafting the compliance checklist.
 
-A) has
-B) had
-C) having
-D) have
-```
-
-### 풀이
-- No sooner가 문두에 오면 도치가 일어나며 no sooner had S p.p. than 구조가 정답
-- A : has + the contract(명사) + signed(과거분사) -> 문법적으로 틀림
-- B : had + the contract(명사) + signed(과거분사) -> 문법적으로 맞음
-- C : having + the contract(명사) + signed(과거분사) -> 문법적으로 틀림
-- D : have + the contract(명사) + signed(과거분사) -> 문법적으로 틀림
-
-### 해석
-- No sooner had the contract been signed: 계약이 체결되자마자 (주절)
-- than the legal team began drafting the compliance checklist: 법무팀은 규정 준수 체크리스트를 작성하기 시작했다 (부사절)
-
-### 단어
-- contract 📦	명사	계약
-- legal team ⚖️	명사	법무팀
-- drafting 📝	동사	초안을 작성하다
-- compliance 📋	명사	규정 준수
-- checklist ✅	명사	체크리스트
 
 <br>
 
+## 2026-04-20
 ```
-The sudden ______ of the main server disrupted online transactions for hours.
+All employees are required to submit their travel reimbursement forms ______ the end of the month.
 
-A) fail
-B) failure
-C) failing
-D) failed
+(A) on
+(B) by
+(C) until
+(D) to
 ```
-
-### 풀이
-- A : fail 은 동사, 빈칸에는 명사가 와야 함
-- B : failure 는 명사, 뒤에 of the main server 와 어울림
-- C : failing 은 동사, 빈칸에는 명사가 와야 함
-- D : failed 는 과거분사, 빈칸에는 명사가 와야 함
-
-### 해석
-- The sudden failure of the main server: 주 서버의 갑작스러운 고장 (주절)
-- disrupted online transactions for hours: 몇 시간 동안 온라인 거래를 중단시켰다 (동사구)
 
 ### 단어
-- sudden ⚡️	형용사	갑작스러운
-- failure 📉	명사	고장, 실패
-- main server 🖥️	명사	주 서버
-- disrupted 🚫	동사	방해하다, 중단시키다
-- online transactions 💳	명사	온라인 거래
-
-<br>
-
-```
-In light ______ recent audits, the company revised its reporting procedures.
-
-A) of
-B) to
-C) with
-D) for
-```
-
-### 풀이
-- in light of는 ~을 고려하여라는 관용 표현
+- submit 📤	명사	제출하다
+- travel reimbursement 💰	명사	출장비 상환
+- form 📄	명사	서식, 양식
+- employee 👥	명사	직원
+- require 📋	동사	요구하다
+- month 📅	명사	달, 월
 
 ### 해석
-- In light of recent audits: 최근 감사에 비추어 (전치사구)
-- the company revised its reporting procedures: 그 회사는 보고 절차를 수정했다 (동사구)
-
-### 단어
-- light 💡	명사	빛, 관점
-- recent 📅	형용사	최근의
-- audits 📋	명사	감사
-- revised 🔄	동사	수정하다
-- reporting procedures 📝	명사	보고 절차
-
-<br>
-
-```
-The applicant’s resume was impressive, but her answers during the interview were ______, suggesting she had not reviewed the job requirements.
-
-A) perfunctory
-B) meticulous
-C) exhaustive
-D) candid
-```
+- All employees are required to submit: 모든 직원은 제출해야 한다 (주절)
+- their travel reimbursement forms: 그들의 출장비 상환 양식을 (목적어)
+- by the end of the month: 이달 말까지 (시간 부사구)
 
 ### 풀이
-- A : perfunctory 형식적인, 건성의 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울림
-- B : meticulous 꼼꼼한 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울리지 않음
-- C : exhaustive 철저한 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울리지 않음
-- D : candid 솔직한 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울리지 않음
-
-### 해석
-- The applicant’s resume was impressive: 그 지원자의 이력서는 인상적이었다 (주절)
-- but her answers during the interview were perfunctory: 하지만 그녀의 면접 중 답변은 형식적이었다 (동사구)
-- suggesting she had not reviewed the job requirements: 그녀가 직무 요건을 검토하지 않았음을 시사하면서 (분사구문)
-
-### 단어
-- applicant 📦	명사	지원자
-- resume 📄	명사	이력서
-- impressive ✨	형용사	인상적인
-- perfunctory 🎭	형용사	형식적인, 건성의
-- meticulous 🔍	형용사	꼼꼼한, 세심한
-- exhaustive 📚	형용사	철저한, 포괄적인
-- candid 🗣️	형용사	솔직한
-- job requirements 💼	명사	직무 요건
+- (A) on: 특정한 '날(day)'이나 '날짜(date)' 앞에 쓰입니다. (예: on Monday, on May 1st). 빈칸 뒤의 'the end of the month'는 점점이 이어진 기간의 끝을 나타내므로, 특정 시점까지의 기한을 나타내는 전치사가 더 적절합니다.
+- (B) by [정답]: '마감 기한'을 나타냅니다. 월말이라는 시점 전까지만 서류를 **한 번 제출(submit)**하면 의무가 완료되므로 문맥상 가장 완벽합니다. 📅
+- (C) until [오답]: '계속'의 의미가 강합니다. 만약 "We will wait until the end of the month(우리는 월말까지 계속 기다릴 것이다)"처럼 기다리는 상태가 유지되는 상황이라면 정답이 될 수 있지만, '제출하다'와는 어울리지 않습니다. ❌
+- (D) to: 주로 방향이나 목적지(~로), 혹은 범위를 나타낼 때 쓰입니다. 기한을 나타낼 때는 'from A to B' 형식을 주로 사용합니다.
 
 <br>
 
