@@ -5,7 +5,118 @@
 
 <br>
 
+## 2026-04-21
+```
+No sooner ______ the contract signed than the legal team began drafting the compliance checklist.
 
+A) has
+B) had
+C) having
+D) have
+```
+
+### 풀이
+- No sooner가 문두에 오면 도치가 일어나며 no sooner had S p.p. than 구조가 정답
+- A : has + the contract(명사) + signed(과거분사) -> 문법적으로 틀림
+- B : had + the contract(명사) + signed(과거분사) -> 문법적으로 맞음
+- C : having + the contract(명사) + signed(과거분사) -> 문법적으로 틀림
+- D : have + the contract(명사) + signed(과거분사) -> 문법적으로 틀림
+
+### 해석
+- No sooner had the contract been signed: 계약이 체결되자마자 (주절)
+- than the legal team began drafting the compliance checklist: 법무팀은 규정 준수 체크리스트를 작성하기 시작했다 (부사절)
+
+### 단어
+- contract 📦	명사	계약
+- legal team ⚖️	명사	법무팀
+- drafting 📝	동사	초안을 작성하다
+- compliance 📋	명사	규정 준수
+- checklist ✅	명사	체크리스트
+
+<br>
+
+```
+The sudden ______ of the main server disrupted online transactions for hours.
+
+A) fail
+B) failure
+C) failing
+D) failed
+```
+
+### 풀이
+- A : fail 은 동사, 빈칸에는 명사가 와야 함
+- B : failure 는 명사, 뒤에 of the main server 와 어울림
+- C : failing 은 동사, 빈칸에는 명사가 와야 함
+- D : failed 는 과거분사, 빈칸에는 명사가 와야 함
+
+### 해석
+- The sudden failure of the main server: 주 서버의 갑작스러운 고장 (주절)
+- disrupted online transactions for hours: 몇 시간 동안 온라인 거래를 중단시켰다 (동사구)
+
+### 단어
+- sudden ⚡️	형용사	갑작스러운
+- failure 📉	명사	고장, 실패
+- main server 🖥️	명사	주 서버
+- disrupted 🚫	동사	방해하다, 중단시키다
+- online transactions 💳	명사	온라인 거래
+
+<br>
+
+```
+In light ______ recent audits, the company revised its reporting procedures.
+
+A) of
+B) to
+C) with
+D) for
+```
+
+### 풀이
+- in light of는 ~을 고려하여라는 관용 표현
+
+### 해석
+- In light of recent audits: 최근 감사에 비추어 (전치사구)
+- the company revised its reporting procedures: 그 회사는 보고 절차를 수정했다 (동사구)
+
+### 단어
+- light 💡	명사	빛, 관점
+- recent 📅	형용사	최근의
+- audits 📋	명사	감사
+- revised 🔄	동사	수정하다
+- reporting procedures 📝	명사	보고 절차
+
+<br>
+
+```
+The applicant’s resume was impressive, but her answers during the interview were ______, suggesting she had not reviewed the job requirements.
+
+A) perfunctory
+B) meticulous
+C) exhaustive
+D) candid
+```
+
+### 풀이
+- A : perfunctory 형식적인, 건성의 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울림
+- B : meticulous 꼼꼼한 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울리지 않음
+- C : exhaustive 철저한 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울리지 않음
+- D : candid 솔직한 / 는 형용사, 뒤에 , suggesting she had not reviewed the job requirements 와 어울리지 않음
+
+### 해석
+- The applicant’s resume was impressive: 그 지원자의 이력서는 인상적이었다 (주절)
+- but her answers during the interview were perfunctory: 하지만 그녀의 면접 중 답변은 형식적이었다 (동사구)
+- suggesting she had not reviewed the job requirements: 그녀가 직무 요건을 검토하지 않았음을 시사하면서 (분사구문)
+
+### 단어
+- applicant 📦	명사	지원자
+- resume 📄	명사	이력서
+- impressive ✨	형용사	인상적인
+- perfunctory 🎭	형용사	형식적인, 건성의
+- meticulous 🔍	형용사	꼼꼼한, 세심한
+- exhaustive 📚	형용사	철저한, 포괄적인
+- candid 🗣️	형용사	솔직한
+- job requirements 💼	명사	직무 요건
 
 <br>
 
