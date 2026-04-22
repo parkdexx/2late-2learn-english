@@ -5,6 +5,38 @@
 
 <br>
 
+## 2026-04-22
+```
+The human resources director announced that the upcoming training session on workplace safety is ------- for all new employees.
+
+(A) mandatory
+(B) mandate
+(C) mandatorily
+(D) mandated
+```
+
+### 풀이
+> 형용사를 찾아야 함
+- (A) mandatory (정답)
+    - 품사: 형용사
+    - 이유: is와 같은 be동사 뒤에는 주어의 상태나 성질을 보충 설명해 주는 주격 보어가 필요합니다. '의무적인'이라는 뜻의 형용사 mandatory는 "교육 세션은 의무적이다"라는 문장을 완벽하게 완성합니다. 토익에서는 규정이나 교육이 '필수'임을 나타낼 때 가장 전형적으로 쓰이는 단어입니다.
+
+- (B) mandate (오답)
+    - 품사: 명사 또는 동사
+    - 이유: * 명사(권한/지시)일 경우: session is mandate라고 하면 "세션은 지시이다"라는 뜻이 되어 주어와 보어가 동격이 되어야 하는데, 세션 자체가 '지시' 그 자체는 아니므로 문맥상 어색합니다. 또한 명사로 쓰였다면 관사(a/the)가 필요합니다. 동사(명령하다)일 경우: be동사 바로 뒤에 동사원형이 올 수 없습니다.
+
+- (C) mandatorily (오답)
+  - 품사: 부사
+  - 이유: 부사는 명사를 수식하거나 보어 자리에 올 수 없습니다. is 뒤에서 주어를 설명해야 하는 자리이므로 형용사가 필요합니다. (예: The session is mandatorily conducted처럼 동사를 수식할 때는 가능합니다.)
+
+- (D) mandated (오답)
+  - 품사: 동사의 과거분사(p.p.)
+  - 이유: is mandated는 수동태로 "법으로 규정되다/위임되다"라는 의미입니다. 문법적으로 불가능한 것은 아니지만, 토익에서는 특정 주체에 의해 강제된 행위보다는 **세션 자체의 성격이 '의무적'**임을 나타내는 형용사 mandatory를 쓰는 것이 훨씬 자연스럽고 일반적입니다.
+
+  
+
+<br>
+
 ## 2026-04-21
 ```
 No sooner ______ the contract signed than the legal team began drafting the compliance checklist.
