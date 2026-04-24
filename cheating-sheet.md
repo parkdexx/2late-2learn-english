@@ -5,6 +5,40 @@
 
 <br>
 
+```
+Question 1.
+
+The marketing director decided to hire a consultant to help the team -------- the new advertising campaign more effectively.
+
+(A) organize
+(B) organization
+(C) organizational
+(D) organized
+```
+
+### 풀이
+- (A) organize : 동사원형, help + 목적어 + 목적격 보어 구조에서 보어 자리에 동사원형이 오면 "팀이 ~하는 것을 돕는다"는 의미가 되어 자연스럽습니다. 뒤에 오는 'the new advertising campaign'이라는 목적어를 취할 수 있습니다.
+- (B) organization	명사 (조직, 구성)	help + 목적어 + 목적격 보어 구조에서 보어 자리에 명사가 오면 "팀을 '조직'이라는 상태로 돕는다"는 의미가 되어 어색합니다. 또한, 뒤에 오는 'the new advertising campaign'이라는 목적어를 또 가질 수 없습니다.
+- (C) organizational	형용사 (조직적인)	형용사는 목적어의 상태를 설명할 때 보어 자리에 올 수 있지만, help는 주로 **동작(동사원형)**을 보어로 취하여 "~하는 것을 돕다"라고 표현합니다. "팀이 조직적인 상태가 되도록 돕다"는 문맥상 맞지 않습니다.
+- (D) organized	과거분사/과거동사	help의 보어 자리에는 수동의 의미가 강조될 때 과거분사가 올 수도 있지만, 여기서는 팀이 캠페인을 '직접 조직하는' 능동의 관계이며, 뒤에 목적어(campaign)가 살아있으므로 능동 형태인 동사원형이 와야 합니다.
+
+### 해석
+- The marketing director decided to hire a consultant: 마케팅 이사는 컨설턴트를 고용하기로 결정했다 (주절)
+- to help the team organize the new advertising campaign more effectively: 팀이 새로운 광고 캠페인을 더 효과적으로 조직하도록 돕기 위해 (부사적 용법)
+
+### 단어
+- marketing director 💼	명사	마케팅 이사
+- decided 🎯	동사	결정했다
+- hire 🤝	동사	고용하다
+- consultant 👨‍💼	명사	컨설턴트
+- organize 🏗️	동사	조직하다
+- advertising campaign 📢	명사	광고 캠페인
+- effectively 🚀	부사	효과적으로
+
+
+
+<br>
+
 ## 2026-04-22
 ```
 The human resources director announced that the upcoming training session on workplace safety is ------- for all new employees.
