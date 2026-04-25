@@ -5,6 +5,77 @@
 
 <br>
 
+## 2026-04-26
+
+```
+The marketing director decided to postpone the meeting _______ the key stakeholders could attend.
+
+(A) so that
+(B) in order to
+(C) because of
+(D) although
+```
+
+### 풀이
+
+> 빈칸 뒤가 주어+ 동사의 절 형태임
+
+- (A) so that : ~하기 위해서 / 접속사로 뒤에 절이 오면 이쁨
+- (B) in order to : ~하기 위해서 / 부정사구로 뒤에 동사원형이 와야 함
+- (C) because of : ~ 때문에 / 전치사구로 뒤에 명사나 명사구가 와야 함
+- (D) although : ~에도 불구하고 / 접속사지만 의미가 어색 함
+
+### 해석
+- The marketing director decided to postpone the meeting: 마케팅 이사는 회의를 연기하기로 결정했다 (주절)
+- so that the key stakeholders could attend: 주요 이해관계자들이 참석할 수 있도록 (부사절)
+
+### 단어
+- marketing director 💼	명사	마케팅 이사
+- decided 🎯	동사	결정했다
+- postpone ⏳	동사	연기하다
+- meeting 👥	명사	회의
+- key stakeholders 🔑	명사	주요 이해관계자
+- attend 🏫	동사	참석하다
+
+<br>
+
+```
+The board of directors unanimously approved the _______ to the company's bylaws during the annual meeting.
+
+(A) revision
+(B) revised
+(C) revising
+(D) revises
+```
+
+### 풀이
+
+> 관사 the 뒤에는, 형용사 + 명사가 와야 함
+> 형용사는 옵션임
+
+- (A) revision : 명사 / the + 명사 구조로 자연스러움
+- (B) revised : 과거분사 / the + 과거분사 구조는 가능하지만, 뒤에 목적어가 없으므로 어색함
+- (C) revising : 동명사 / the + 동명사 구조는 가능하지만, 뒤에 목적어가 없으므로 어색함
+- (D) revises : 동사 / the + 동사 구조는 불가능
+
+### 해석
+- The board of directors unanimously approved the revision: 이사회는 만장일치로 개정을 승인했다 (주절)
+- to the company's bylaws during the annual meeting: 회사 정관에 대한 (부사구)
+
+### 단어
+- board of directors 💼	명사	이사회
+- unanimously 🎯	부사	만장일치로
+- approved ⏳	동사	승인했다
+- revision 👥	명사	개정
+- bylaws 🔑	명사	정관
+- annual meeting 🏫	명사	연례 회의
+
+
+
+<br>
+
+## 2026-04-25
+
 ```
 Question 1.
 
