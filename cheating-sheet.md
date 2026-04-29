@@ -5,6 +5,133 @@
 
 <br>
 
+## 2026-04-29
+
+```
+Q1. The marketing director _________ the new advertising campaign at the meeting yesterday.
+
+(A) announce
+(B) announced
+(C) announcing
+(D) announcement
+```
+
+### 풀이
+
+> 이 문제는 문장의 동사(Verb) 자리를 채우는 문제였습니다. 주어인 The marketing director 다음에 그의 동작을 나타내는 표현이 와야 하죠.
+
+- (A) announce 동사의 원형/현재형: 주어가 The marketing director(3인칭 단수)이므로 현재 시제라면 announces가 되어야 하며, 무엇보다 yesterday라는 과거 시점과 맞지 않습니다.
+- (B) announced	동사의 과거형: 문장 끝에 명시된 시점인 yesterday(어제)와 호응하는 과거 시제 동사입니다. 주어 뒤에서 문장의 본동사 역할을 완벽히 수행합니다.
+- (C) announcing	현재분사: -ing 형태는 앞에 be동사가 없으면 문장의 본동사가 될 수 없습니다. 단독으로는 '발표하는 중인' 또는 '발표하는 것'이라는 형용사/명사 역할만 합니다.
+- (D) announcement	명사: '발표'라는 뜻의 명사입니다. 주어 뒤에 바로 명사가 오면 문장에 동작을 나타내는 동사가 없게 되어 완결된 문장이 되지 않습니다.
+
+<br>
+
+```
+Q2. Ms. Gable requested that the marketing team ------- the final draft of the promotional brochure by the end of the day.
+
+(A) submits
+(B) submitting
+(C) submit
+(D) submitted
+```
+
+### 풀이
+
+> 문장의 동사 requested에 주목해야 합니다.
+
+> 핵심 규칙: '제안, 권고, 요구, 명령'을 나타내는 동사(request, suggest, recommend, insist 등) 뒤에 오는 that절에는, 의미상 '~해야 한다'는 당위성이 포함됩니다.
+
+> 이 때 that절의 동사 앞에는 조동사 should가 생략된 것으로 간주합니다.
+
+> 따라서 주어(the marketing team)의 수나 시제에 상관없이 항상 동사원형을 사용합니다.
+
+- (A) submits	3인칭 단수 현재형	주어인 team이 단수이므로 일반적인 문장이라면 가능해 보이지만, 위에서 설명한 당위성 규칙에 따라 동사원형을 써야 하므로 탈락입니다.
+- (B) submitting	동명사/현재분사	that절 안에는 반드시 **정동사(V)**가 필요합니다. -ing 형태는 혼자서 문장의 본동사 역할을 할 수 없습니다.
+- (D) submitted	과거형/과거분사	앞의 주절 동사가 requested(과거)라고 해서 시제 일치를 위해 과거형을 쓰는 함정에 빠지면 안 됩니다. should 생략 규칙이 시제 일치보다 우선합니다.
+
+
+
+
+<br>
+
+## 2026-04-28
+
+```
+1. If the vendor ______ the issue earlier, we would not be facing penalties now.
+
+A) reported
+B) had reported
+C) has reported
+D) reports
+```
+
+### 풀이
+
+> 과거의 조건과 현재 결과가 연결되는 혼합가정법에서는 if절에 과거완료 had p.p.를 쓴다.
+
+- (A) reported → 단순과거는 혼합가정법의 과거 조건을 충분히 나타내지 못한다.
+- (C) has reported → 현재완료는 현재 기준이라 가정법 과거 조건에 부적절하다.
+- (D) reports → 현재시제로 가정법 구조와 맞지 않다.
+
+<br>
+
+```
+2. The updated protocol focuses on the ______ of customer data during transmission.
+
+A) protect
+B) protection
+C) protective
+D) protected
+```
+
+### 풀이
+
+> the 다음에는 명사가 와야 하므로 protection이 정답이다.
+
+- (A) protect → 동사로 명사 자리 불가능하다.
+- (C) protective → 형용사로 명사 자리 부적절하다.
+- (D) protected → 분사/형용사로 문장 구조에 맞지 않는다.
+
+<br>
+
+```
+3. The new procedure applies ______ all regional offices without exception.
+
+A) to
+B) for
+C) with
+D) at
+```
+
+### 풀이
+
+> apply to는 ~에 적용되다라는 고정 결합이다.
+
+<br>
+
+```
+4. To avoid public scrutiny, the firm chose to ______ the details of the settlement.
+
+A) withhold
+B) disclose
+C) amplify
+D) commemorate
+```
+
+### 풀이
+
+> 대중의 감시를 피하기 위해, 회사는 합의의 세부 내용을 공개하지 않기로 했다.
+
+> avoid public scrutiny이므로 정보를 숨기다의 withhold가 정답이다.
+
+- (B) 공개하다 → 문맥과 반대다.
+- (C) 확대하다 → 정보를 숨기는 의미가 아니다.
+- (D) 기념하다 → 문맥과 무관하다.
+
+
+<br>
+
 ## 2026-04-26
 
 ```
