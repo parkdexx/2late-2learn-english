@@ -5,6 +5,55 @@
 
 <br>
 
+## 2026-04-30
+
+```
+The newly appointed marketing manager plans to ------- the current advertising strategy to reach a wider audience.
+
+(A) revise
+(B) revision
+(C) revised
+(D) revises
+```
+
+### 풀이
+
+> 문법적 근거: 문장의 동사인 plans 뒤에 to가 와서 to-부정사($to$ + 동사원형)를 형성해야 하는 자리입니다.
+
+> 역할: to revise는 '수정하는 것'이라는 의미로 plans의 목적어 역할을 합니다. 또한 revise는 타동사이기 때문에 뒤에 the current advertising strategy라는 목적어를 자연스럽게 취할 수 있습니다. 🛠️
+
+- (B) revision	명사 (수정, 개정)	to 뒤에 명사가 오면 to가 전치사라는 뜻인데, plans to에서 to는 부정사로 쓰입니다. 또한, 명사 뒤에 또 다른 명사구(the current... strategy)가 바로 올 수 없습니다. ❌
+- (C) revised	과거동사 / 과거분사	to-부정사의 to 뒤에는 반드시 동사원형이 와야 합니다. 과거형이나 분사 형태는 올 수 없습니다. ❌
+- (D) revises	3인칭 단수 현재 동사	to 뒤에 동사의 굴절 형태(s가 붙은 형태)는 올 수 없습니다. 원형인 revise만 가능합니다. ❌
+
+<br>
+<br>
+
+```
+The human resources department requires all employees to submit their ------- for the upcoming workshop by Friday.
+
+(A) register
+(B) registration
+(C) registered
+(D) registry
+```
+
+### 풀이
+
+> 문법적 근거: 빈칸 앞에 소유격 인칭대명사 their(그들의)가 있습니다. 영어에서 소유격 뒤에는 반드시 명사가 위치해야 합니다.
+
+> 의미적 근거: 문맥상 인사과(HR)가 직원들에게 금요일까지 제출하라고 요구하는 것은 워크숍 '등록(registration)' 또는 '등록 신청서'가 되는 것이 가장 자연스럽습니다.
+
+- (A) register	동사 (등록하다)	소유격 their 바로 뒤에는 동사원형이 올 수 없습니다.
+- (C) registered	과거분사/형태용사	their 뒤에서 단독으로 명사 역할을 할 수 없습니다. registered form처럼 뒤에 명사를 수미하는 형용사로는 쓰일 수 있지만, 여기선 빈칸 뒤에 목적어 역할을 할 명사가 없습니다.
+- (D) registry	명사 (등록소/등기소)	품사는 명사이지만, '장소'나 '기록부' 자체를 의미합니다. 직원이 워크숍을 위해 제출하는 것은 '등록 행위/신청'인 registration이 문맥상 훨씬 적절합니다.
+
+
+
+
+
+<br>
+
 ## 2026-04-29
 
 ```
