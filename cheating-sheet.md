@@ -5,6 +5,30 @@
 
 <br>
 
+## 2026-05-04
+
+```
+The regional director ________ requested that all department heads submit their budget proposals by the end of the week.
+
+(A) specific
+(B) specify
+(C) specifically
+(D) specification
+```
+
+### 풀이
+
+> 부사는 문장에서 동사, 형용사, 또는 다른 부사를 수식하는 역할을 하므로, requested를 꾸며주는 specifically(구체적으로/명확하게)가 문법적으로나 의미상으로 가장 적절합니다.
+
+- (A) specific (형용사): 형용사는 주로 명사를 수식하거나 보어 자리에 쓰입니다. 빈칸 뒤에 수식할 명사가 없고, 동사를 직접 수식할 수 없으므로 오답입니다.
+
+- (B) specify (동사): 한 문장에 접속사 없이 본동사가 두 개(specify, requested) 올 수 없습니다. 이미 requested라는 동사가 있으므로 동사 원형인 이 단어는 들어갈 수 없습니다.
+
+- (D) specification (명사): 명사는 문장에서 주어, 목적어, 보어 역할을 합니다. 이미 주어(director)가 있고, 빈칸은 동사를 수식해야 하는 자리이므로 명사인 이 단어는 문맥상 적절하지 않습니다.
+
+
+<br>
+
 ## 2026-04-30
 
 ```
