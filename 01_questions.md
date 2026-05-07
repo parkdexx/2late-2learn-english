@@ -6,6 +6,28 @@
 
 <br>
 
+## 2026-05-07
+
+```
+For the past three months, the team ______ on the redesign of the company website.
+
+A) works
+B) has been working
+C) worked
+D) will work
+```
+
+### 풀이
+
+- 지난 3개월 동안, 팀은 회사 웹사이트 개편 작업을 계속해 왔다.
+- for the past + 기간은 현재까지 이어지는 동작을 나타냄
+- 현재완료진행 has been V-ing가 자연스럽다.
+
+### 오답분석
+
+- (A) works → 현재시제는 기간과 지속을 충분히 드러내지 못한다.
+- (C) worked → 단순과거는 현재까지의 지속을 나타내지 못한다.
+- (D) will work → 미래시제로 문맥과 맞지 않다.
 
 
 
