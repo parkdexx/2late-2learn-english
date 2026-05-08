@@ -6,6 +6,10 @@
 
 <br>
 
+- approved
+  - 형용사
+  - 인가된, 입증된, 공인된
+
 - efficiency
   - 명사
   - 효율성
