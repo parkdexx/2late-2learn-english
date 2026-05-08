@@ -6,6 +6,44 @@
 
 <br>
 
+## 2026-05-08
+
+```
+The board of directors _______ the new marketing strategy proposed by the creative team during yesterday's meeting.
+
+A. approving
+B. approved
+C. approval
+D. approves
+```
+
+### 풀이
+
+- 빈칸은 본동사의 자리임
+- proposed 는 본동사가 아님, marketing strategy 를 꾸며주는 과거분사(형용사) 임
+  - proposed 가 동사라면 뒤에 목적어가 따라와야 하는데, by 전치사구가 오고 있음
+- 문장 끝에 있는 yesterday 또한 고려해줘야 함
+
+### 오답분석
+
+- A. approving	
+  - 현재분사/동명사
+  - 분사는 혼자서 문장의 본동사 역할을 할 수 없습니다. 
+  - 동사가 되려면 앞에 is/are 같은 be동사가 있어야 합니다.
+- B. approved	
+  - 동사(과거형)	
+  - 문장 끝에 있는 **yesterday**라는 명확한 과거 시점 부사가 있으므로, 과거 시제 동사인 approved가 문법적으로 완벽합니다.
+- C. approval	
+  - 명사
+  - 주어 뒤에 또 명사가 올 수 없습니다. 문장을 성립시키려면 술어 동사가 필요합니다.
+- D. approves	
+  - 동사(현재형)
+  - 수 일치(3인칭 단수)는 맞지만, 문맥상 어제 있었던 일을 말하므로 현재 시제는 적절하지 않습니다.
+
+
+
+<br>
+
 ## 2026-05-07
 
 ```
