@@ -6,6 +6,39 @@
 
 <br>
 
+## 2026-05-11
+
+```
+The marketing director's recently proposed strategy was designed to increase customer loyalty and ------- the company's brand image.
+
+(A) strengthen
+(B) strength
+(C) strongly
+(D) strengthened
+```
+
+### 풀이
+
+- 이 문장에서 was designed to 뒤에는 to 부정사가 이어지고 있습니다.
+- 'and'라는 등위 접속사가 두 개의 목적(~하기 위해서)을 연결하고 있으므로, 빈칸에도 동사원형이 들어가야 합니다.
+
+### 오답분석
+- (B) strength (명사): 
+  - '힘, 강점'이라는 뜻의 명사입니다. 
+  - 만약 이 자리에 명사가 오면 "고객 충성도와 강점을 증가시키기 위해"라고 해석될 수도 있겠지만,  빈칸 뒤에 이미 the company's brand image라는 또 다른 명사(목적어)가 버티고 있습니다. 
+  - [명사 + 명사]가 나란히 올 수 없으므로 오답입니다.
+
+- (C) strongly (부사): 
+  - '강하게'라는 뜻의 부사입니다. 
+  - 부사는 동사를 수식할 수는 있지만, 빈칸 뒤의 목적어(brand image)를 가질 수 있는 동사 역할을 직접 할 수는 없습니다.
+
+- (D) strengthened (과거동사/과거분사): 
+  - '강화했다/강화된'이라는 뜻입니다. 
+  - to 부정사의 to 뒤에는 반드시 동사원형이 와야 하므로, 과거형이나 분사 형태는 올 수 없습니다.
+
+
+<br>
+
 ## 2026-05-08
 
 ```
