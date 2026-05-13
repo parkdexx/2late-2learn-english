@@ -6,6 +6,32 @@
 
 <br>
 
+## 2026-05-13
+
+```
+The ______ of the financial projections depends on updated market data.
+
+A) accurate
+B) accurately
+C) accuracy
+D) inaccurate
+```
+
+### 풀이
+
+- the 다음에는 명사가 와야 하므로 accuracy가 정답이다.
+
+### 오답분석
+
+- (A) accurate → 형용사로 '정확한'이라는 뜻
+- (B) accurately → 부사로 '정확하게'라는 뜻
+- (D) inaccurate → 형용사로 '부정확한'이라는 뜻
+
+
+
+
+<br>
+
 ## 2026-05-12
 
 ```
