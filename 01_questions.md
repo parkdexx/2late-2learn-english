@@ -6,6 +6,34 @@
 
 <br>
 
+## 2026-05-15
+
+```
+To increase ______, each team lead must submit weekly progress reports.
+
+A) accountable
+B) accountability
+C) accountably
+D) unaccountable
+```
+
+### 풀이
+
+- 해석 : 책임성을 높이기 위해, 각 팀 리더는 주간 진행 보고서를 제출해야 한다.
+- 동사 increase 의 목적어는 명사여야 하므로 accountability 가 정답이다.
+
+
+### 분석
+
+- (A) accountable → 형용사로 목적어 명사 자리 불가능하다.
+- (C) accountably → 부사로 목적어가 될 수 없다.
+- (D) unaccountable → 형용사로 문장 구조에 맞지 않다.
+
+
+
+
+<br>
+
 ## 2026-05-14
 
 ```
@@ -25,7 +53,7 @@ D) has met
 - 가정법 과거완료 형태임을 알 수 있다.
 - 가정법 과거완료의 조건절의 동사 형태는 had + pp 가 와야 한다.
 
-### 오답분석
+### 분석
 
 - (A) meets → 현재시제로 가정법 구조와 맞지 않다.
 - (B) met → 단순과거는 과거 반대 사실 가정의 형태로는 부적절하다.
@@ -51,7 +79,7 @@ D) inaccurate
 
 - the 다음에는 명사가 와야 하므로 accuracy가 정답이다.
 
-### 오답분석
+### 분석
 
 - (A) accurate → 형용사로 '정확한'이라는 뜻
 - (B) accurately → 부사로 '정확하게'라는 뜻
@@ -81,7 +109,7 @@ D) has taken
 - 주절의 동사(stated) 가 과거 이므로 시제를 일치시키다 보니 would + 동사원형이 오게 됨
 - 과거 동사 stated 뒤에서 미래를 말할 때는 would를 사용해 시제를 일치시킨다.
 
-### 오답분석
+### 분석
 
 - (A) takes → 현재시제로 간접화법의 시제 일치에 맞지 않다.
 - (B) took → 실제 시행이 이미 과거에 일어난 의미가 되어 문맥과 다르다.
@@ -107,7 +135,7 @@ The marketing director's recently proposed strategy was designed to increase cus
 - 이 문장에서 was designed to 뒤에는 to 부정사가 이어지고 있습니다.
 - 'and'라는 등위 접속사가 두 개의 목적(~하기 위해서)을 연결하고 있으므로, 빈칸에도 동사원형이 들어가야 합니다.
 
-### 오답분석
+### 분석
 - (B) strength (명사): 
   - '힘, 강점'이라는 뜻의 명사입니다. 
   - 만약 이 자리에 명사가 오면 "고객 충성도와 강점을 증가시키기 위해"라고 해석될 수도 있겠지만,  빈칸 뒤에 이미 the company's brand image라는 또 다른 명사(목적어)가 버티고 있습니다. 
@@ -142,7 +170,7 @@ D. approves
   - proposed 가 동사라면 뒤에 목적어가 따라와야 하는데, by 전치사구가 오고 있음
 - 문장 끝에 있는 yesterday 또한 고려해줘야 함
 
-### 오답분석
+### 분석
 
 - A. approving	
   - 현재분사/동명사
@@ -179,7 +207,7 @@ D) will work
 - for the past + 기간은 현재까지 이어지는 동작을 나타냄
 - 현재완료진행 has been V-ing가 자연스럽다.
 
-### 오답분석
+### 분석
 
 - (A) works → 현재시제는 기간과 지속을 충분히 드러내지 못한다.
 - (C) worked → 단순과거는 현재까지의 지속을 나타내지 못한다.
@@ -208,7 +236,7 @@ The new software update will allow users to customize their interface more _____
 - 따라서 '효율적으로(efficiently) 커스터마이징하다'가 문맥과 문법상 가장 자연스럽습니다. 
 - 앞에 있는 more는 부사를 강조하는 비교급 표현일 뿐이죠.
 
-### 오답분석
+### 분석
 
 - (A) efficient
   - 형용사로 '효율적인'이라는 뜻입니다. 

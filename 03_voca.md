@@ -6,6 +6,10 @@
 
 <br>
 
+- accountability
+  - 명사
+    - 책임
+
 - committee
   - 명사
     - 위원회
@@ -20,7 +24,6 @@
   - 명사
     - 상태, 상황, 진술, 서술
   
-
 - strengthen
   - 동사
     - 강회되다, 강화하다
