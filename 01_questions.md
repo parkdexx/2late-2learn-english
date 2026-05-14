@@ -6,6 +6,36 @@
 
 <br>
 
+## 2026-05-14
+
+```
+If the committee ______ earlier, we could have avoided the last-minute revision.
+
+A) meets
+B) met
+C) had met
+D) has met
+```
+
+### 풀이
+
+- 주절은 we could have avoided.... 쪽이다
+- 주절의 동사 형태가 조동사과거 + hava + pp 형태이고
+- 해석이 만약 ~했더라면, ~했을 텐데 와 같이 해석되는 형태이므로
+- 가정법 과거완료 형태임을 알 수 있다.
+- 가정법 과거완료의 조건절의 동사 형태는 had + pp 가 와야 한다.
+
+### 오답분석
+
+- (A) meets → 현재시제로 가정법 구조와 맞지 않다.
+- (B) met → 단순과거는 과거 반대 사실 가정의 형태로는 부적절하다.
+- (D) has met → 현재완료는 과거 반대 사실 가정에 부적절하다.
+
+
+
+
+<br>
+
 ## 2026-05-13
 
 ```

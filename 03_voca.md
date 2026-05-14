@@ -6,6 +6,10 @@
 
 <br>
 
+- committee
+  - 명사
+    - 위원회
+
 - accuracy
   - 명사
     - 정확, 정확도
