@@ -6,6 +6,10 @@
 
 <br>
 
+- virtue
+  - 명사
+    - 선행, 미덕, 장점
+
 - accountability
   - 명사
     - 책임

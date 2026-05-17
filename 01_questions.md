@@ -4,6 +4,22 @@
 
 ---------- 
 
+## 2026-05-17
+
+```
+By virtue ______ her extensive experience, she was promoted to director.
+
+A) of
+B) to
+C) with
+D) for
+```
+
+### 풀이
+
+- by virtue of는 ~덕분에라는 관용 표현이다.
+
+
 <br>
 
 ## 2026-05-15
