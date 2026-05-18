@@ -4,6 +4,30 @@
 
 ---------- 
 
+## 2026-05-18
+
+```
+Accurate forecasting is ______ to managing inventory during peak season.
+
+A) pivotal
+B) incidental
+C) trivial
+D) obsolete
+```
+
+### 풀이
+
+- 해석: 성수기 재고 관리를 위해 정확한 예측은 매우 핵심적이다.
+- 해설: managing inventory에 결정적이라는 의미의 pivotal이 정답이다.
+
+### 분석
+
+- (B) 부수적인 → 중요함을 나타내지 못한다
+- (C) 사소한 → 문맥과 반대다
+- (D) 구식의 → 의미가 맞지 않다
+
+
+
 ## 2026-05-17
 
 ```
