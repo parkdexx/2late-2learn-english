@@ -4,6 +4,31 @@
 
 ---------- 
 
+## 2026-05-19
+
+```
+By next Tuesday, the finance team ______ the quarterly forecasts.
+
+A) finalizes
+B) will finalize
+C) will have finalized
+D) has finalized
+```
+
+### 풀이
+
+- 해석: 다음 화요일까지 재무팀은 분기 예측치를 확정해 둘 것이다.
+- 해설: By + 미래 시점은 미래완료 will have p.p.로 표현한다.
+
+### 분석
+
+- (A) finalizes → 현재시제로 미래완료 의미가 없다.
+- (B) will finalize → 단순미래는 완료 선후관계를 덜 분명하게 만든다.
+- (D) has finalized → 현재완료는 현재 기준이라 부적절하다.
+
+
+<br>
+
 ## 2026-05-18
 
 ```
@@ -26,7 +51,7 @@ D) obsolete
 - (C) 사소한 → 문맥과 반대다
 - (D) 구식의 → 의미가 맞지 않다
 
-
+<br>
 
 ## 2026-05-17
 
