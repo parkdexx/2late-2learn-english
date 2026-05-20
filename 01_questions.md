@@ -4,6 +4,31 @@
 
 ---------- 
 
+## 2026-05-20
+
+```
+The system’s ______ will be monitored around the clock to minimize downtime.
+
+A) available
+B) availability
+C) unavailable
+D) availably
+```
+
+### 풀이
+
+- 해석: 가동 중단을 최소화하기 위해 시스템의 가용성이 24시간 모니터링될 것이다.
+- 해설: 소유격 뒤에는 명사가 와야 하므로 availability가 정답이다.
+
+### 분석
+
+- (A) available → 형용사로 소유격 뒤 명사 역할을 할 수 없다.
+- (C) unavailable → 형용사로 문장 구조에 맞지 않다.
+- (D) availably → 부사로 문장 구조에 부적절하다.
+
+
+<br>
+
 ## 2026-05-19
 
 ```
