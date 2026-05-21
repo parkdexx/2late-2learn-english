@@ -4,6 +4,47 @@
 
 ---------- 
 
+## 2026-05-21
+
+```
+The company offered a voucher in lieu ______ a refund.
+
+A) of
+B) to
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 회사는 환불 대신 바우처를 제공했다.
+- 해설: in lieu of는 ~대신에 라는 고정 표현이다.
+
+<br>
+
+```
+The data leak was deemed ______ after investigators found no evidence of intentional misconduct.
+
+A) inadvertent
+B) deliberate
+C) lucrative
+D) eminent
+```
+
+### 풀이
+
+- 해석: 조사 결과 고의적 비행의 증거가 없어 그 데이터 유출은 우발적인 것으로 판단되었다.
+- 해설: no evidence of intentional misconduct이므로 실수로 인한 inadvertent가 정답이다.
+
+### 분석
+
+- (B) deliberate → 고의적인
+- (C) lucrative → 수익성 있는
+- (D) eminent → 저명한, 존경받는
+
+
+<br>
+
 ## 2026-05-20
 
 ```
