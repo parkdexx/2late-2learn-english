@@ -6,6 +6,15 @@
 
 <br>
 
+- voucher
+  - 명사
+    - 영수증, 상품권, 쿠폰
+
+- lieu
+  - 명사
+    - 장소
+    - in lieu of (~대신에)
+
 - inadvertent
   - 형용사
     - 부주의한, 고의가 아닌
