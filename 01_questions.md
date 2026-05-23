@@ -4,6 +4,31 @@
 
 ---------- 
 
+## 2026-05-23
+
+```
+Shareholders demanded greater ______ in the company’s decision-making process.
+
+A) transparent
+B) transparency
+C) transparently
+D) nontransparent
+```
+
+### 풀이
+
+- 해석: 주주들은 회사 의사결정 과정에서 더 큰 투명성을 요구했다.
+- 해설: greater 뒤에는 명사가 와야 하므로 transparency가 정답이다.
+
+
+### 분석
+
+- (A) transparent → 형용사로 목적어 명사 자리 부적절하다.
+- (C) transparently → 부사로 목적어가 될 수 없다.
+- (D) nontransparent → 형용사로 문장 구조에 맞지 않다.
+
+<br>
+
 ## 2026-05-22
 
 ```

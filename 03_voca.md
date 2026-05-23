@@ -6,6 +6,14 @@
 
 <br>
 
+- Shareholder
+  - 명사
+    - 주주
+
+- transparency
+  - 명사
+    - 투명성, 투명도
+
 - voucher
   - 명사
     - 영수증, 상품권, 쿠폰
