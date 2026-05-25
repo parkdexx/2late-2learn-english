@@ -4,6 +4,24 @@
 
 ---------- 
 
+## 2026-05-25
+
+```
+The flight was delayed on account ______ severe weather.
+
+A) of
+B) to
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 그 비행편은 악천후 때문에 지연되었다.
+- 해설: on account of는 ~때문에라는 관용 표현이다.
+
+<br>
+
 ## 2026-05-23
 
 ```

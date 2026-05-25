@@ -6,12 +6,17 @@
 
 <br>
 
-- Shareholder
+- severe 
+  - 형용사
+    - 극심한, 심각한, 가혹한
+                                                                                
+
+- Shareholder                           
   - 명사
-    - 주주
+    - 주주                 
 
 - transparency
-  - 명사
+  - 명사                             
     - 투명성, 투명도
 
 - voucher
