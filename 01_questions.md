@@ -4,6 +4,31 @@
 
 ---------- 
 
+## 2026-05-26
+
+```
+The inconsistency in the report was ______, so reviewers noticed it immediately.
+
+A) conspicuous
+B) subtle
+C) negligible
+D) optional
+```
+
+### 풀이
+
+- 해석: 보고서의 불일치는 눈에 띄어서 검토자들이 즉시 알아챘다.
+- 해설: noticed it immediately라는 단서로 눈에 띄는 conspicuous가 정답이다.
+
+### 분석
+
+- (B) 미묘한 → immediately와 반대다
+- (C) 미미한 → ‘즉시 알아챔’과 어울리지 않는다
+- (D) 선택적인 → 의미가 맞지 않다
+
+
+<br>
+
 ## 2026-05-25
 
 ```

@@ -6,6 +6,10 @@
 
 <br>
 
+- inconsistency
+  - 명사
+    - 불일치
+
 - severe 
   - 형용사
     - 극심한, 심각한, 가혹한
