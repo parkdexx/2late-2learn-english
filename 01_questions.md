@@ -4,6 +4,35 @@
 
 ---------- 
 
+## 2026-05-27
+
+```
+As soon as the update ______ last night, users reported faster load times.
+
+A) is released
+B) was released
+C) has released
+D) will release
+```
+
+### 풀이
+
+- 해석: 업데이트가 어젯밤 공개되자마자, 사용자들은 더 빠른 로딩 속도를 보고했다.
+- 해설: 과거시점 last night와 reported에 맞춰 수동 과거 was released가 정답이다.
+
+### 분석
+
+- (A) is released → 현재시제로 과거 문맥과 맞지 않다.
+- (C) has released → 능동태이며 주어 update와 의미도 어색하다.
+  - had released 가 됐다면?
+    - had pp 는 과거완료. 즉 과거 시점보다 더 이전인 대과거를 말함
+    - as soon as 가 나와서 두 사건이 거의 동시에 일어남을 나타내는데, 대과거가 나오기 애매함
+    - last night 와 같이 특정 시점이 나올 때는 단순 과거를 쓰는게 원칙임
+    - 무엇보다 update 는 스스로 배포할 수 없기에, 배포를 당해야 함 -> 능동이 될 수 없음 -> be pp 형태가 되어야 함.
+- (D) will release → 미래시제로 문맥과 맞지 않다.
+
+<br>
+
 ## 2026-05-26
 
 ```
