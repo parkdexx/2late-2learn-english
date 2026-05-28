@@ -4,6 +4,47 @@
 
 ---------- 
 
+## 2026-05-28
+
+```
+All employees must act in compliance ______ the code of conduct.
+
+A) with
+B) to
+C) on
+D) for
+```
+
+### 풀이
+
+- 해석: 모든 직원은 행동 강령을 준수하여 행동해야 한다.
+- 해설: in compliance with는 ~을 준수하여라는 표현이다.
+
+<br>
+
+```
+The researcher questioned the ______ of the sample size used in the study.
+
+A) valid
+B) validity
+C) validly
+D) invalidate
+```
+
+### 풀이
+
+- 해석: 연구자는 그 연구에서 사용된 표본 크기의 타당성을 의문시했다.
+- 해설: the 다음에는 명사가 와야 하므로 validity가 정답이다.
+
+### 분석
+
+- (A) valid → 형용사로 명사 자리 부적절하다.
+- (C) validly → 부사로 문장 구조에 맞지 않는다.
+- (D) invalidate → 동사로 명사 자리 불가능하다.
+
+
+<br>
+
 ## 2026-05-27
 
 ```

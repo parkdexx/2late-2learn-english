@@ -6,6 +6,14 @@
 
 <br>
 
+- compliance 
+  - 명사
+    - 준수, 순응
+
+- validity
+  - 명사
+    - 타당성, 유효성
+
 - inconsistency
   - 명사
     - 불일치
