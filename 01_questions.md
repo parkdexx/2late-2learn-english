@@ -4,6 +4,52 @@
 
 ---------- 
 
+## 2026-05-29
+
+```
+The contract states that the service fee ______ automatically each year unless either party objects.
+
+A) increased
+B) increases
+C) has increased
+D) will increase
+```
+
+### 풀이
+
+- 해석: 그 계약서는 어느 한쪽이 이의 제기하지 않는 한 서비스 요금이 매년 자동으로 인상된다고 명시한다.
+- 해설: 계약서 내용이나 일반 규정은 보통 현재시제(일반 현재)를 사용하므로 increases가 정답이다.
+
+### 분석
+
+- (A) increased → 단순과거는 일반 규정을 나타내기 부적절하다.
+- (C) has increased → 현재완료는 특정 기간의 완료를 암시해 일반 규정과 다르다.
+- (D) will increase → 단순미래는 규정의 일반성을 약하게 만든다.
+
+<br>
+
+```
+The initial investment cost was ______ for small retailers, even though the long-term savings were substantial.
+
+A) prohibitive
+B) affordable
+C) routine
+D) tentative
+```
+
+### 풀이
+
+- 해석: 장기 절감 효과가 크더라도 초기 투자 비용은 소규모 소매업자에게 감당하기 어려웠다.
+- 해설: cost가 너무 커서 막는다는 의미의 prohibitive가 정답이다.
+
+### 분석
+
+- (B) 감당 가능한 → 문맥과 반대다.
+- (C) 일상적인 → 비용 수준과 무관하다.
+- (D) 잠정적인 → 의미가 맞지 않다.
+
+<br>
+
 ## 2026-05-28
 
 ```
