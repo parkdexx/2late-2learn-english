@@ -4,6 +4,30 @@
 
 ---------- 
 
+## 2026-05-30
+
+```
+Automation improved the ______ of order processing without increasing headcount.
+
+A) efficient
+B) efficiency
+C) efficiently
+D) inefficient
+```
+
+### 풀이
+
+- 해석: 자동화는 인원을 늘리지 않고도 주문 처리의 효율성을 향상시켰다.
+- 해설: improve의 목적어 자리에는 명사가 필요하므로 efficiency가 정답이다.
+
+### 분석
+
+- (A) efficient → 형용사로 목적어 명사 자리 불가능하다.
+- (C) efficiently → 부사로 목적어가 될 수 없다.
+- (D) inefficient → 형용사로 의미도 반대이며 구조에 맞지 않는다.
+
+<br>
+
 ## 2026-05-29
 
 ```
