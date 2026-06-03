@@ -4,6 +4,46 @@
 
 ---------- 
 
+## 2026-06-03
+
+```
+Because the industry is highly regulated, the company must follow ______ reporting standards.
+
+A) stringent
+B) lenient
+C) accidental
+D) arbitrary
+```
+
+### 풀이
+
+- 해석: 업계 규제가 엄격하기 때문에, 회사는 엄격한 보고 기준을 따라야 한다.
+- 해설: highly regulated는 엄격함을 시사하므로 stringent가 정답이다.
+
+### 분석
+
+- (B) lenient → 관대한 → regulated와 반대다
+- (C) accidental → 우연한 → 기준과 어울리지 않는다
+- (D) arbitrary → 임의의 → 규제가 엄격하다는 내용과 맞지 않다
+
+<br>
+
+```
+The software works in conjunction ______ the existing database.
+
+A) with
+B) to
+C) on
+D) for
+```
+
+### 풀이
+
+- 해석: 그 소프트웨어는 기존 데이터베이스와 함께 연동되어 작동한다.
+- 해설: in conjunction with는 ~와 함께/연계하여라는 표현이다.
+
+<br>
+
 ## 2026-05-30
 
 ```

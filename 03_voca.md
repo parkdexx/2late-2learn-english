@@ -6,6 +6,14 @@
 
 <br>
 
+- accidental
+  - 형용사
+    - 우연한
+
+- stringent
+  - 형용사
+    - 엄중한, 긴박한, 절박한
+
 - efficient
   - 형용사
     - 능률적인, 유능한, 효율적인
