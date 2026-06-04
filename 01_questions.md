@@ -4,6 +4,56 @@
 
 ---------- 
 
+## 2026-06-04
+
+```
+The engineering team will conduct a ______ study before committing to mass production.
+
+A) feasible
+B) feasibility
+C) feasibly
+D) unfeasible
+```
+
+### 풀이
+
+- 해석: 그 공학팀은 대량 생산을 결정하기 전에 타당성 조사를 실시할 것이다.
+- 해설: study를 수식하는 명사 자리이므로 feasibility가 정답이다.
+  - study 명사를 수식하는 형용사가 올 수 있지 않나? 하고 생각들 수 있는데, 
+  - feasible study, unfeasible study 둘 모두 해석이 애매해지는 케이스 이다.
+  - 이 문장에서는 feasibility study 복합명사 가 적절한 경우이다.
+  - 관 + 형 + 명 만 외우는 놈들을 거르기 위한 문제라고 볼 수 있겠다.
+
+### 분석
+
+- (A) feasible → 형용사로 명사 자리 부적절하다.
+- (C) feasibly → 부사로 뒤따르는 명사 study를 수식할 수 없다.
+- (D) unfeasible → 형용사로 문법은 맞으나 문맥상 ‘실현 불가능한’ 연구는 자연스럽지 않다.
+
+<br>
+
+```
+When the shipment finally arrived, we ______ for it for over two weeks.
+
+A) waited
+B) have waited
+C) had been waiting
+D) will have waited
+```
+
+### 풀이
+
+- 해석: 배송이 마침내 도착했을 때, 우리는 그것을 2주 넘게 기다리고 있었다.
+- 해설: 과거 시점 arrived 이전부터 일정 기간 계속된 동작은 과거완료진행 had been V-ing로 표현한다.
+
+### 분석
+
+- (A) waited → 단순과거는 과거 시점의 일회성 동작일 뿐 기간을 나타내지 못한다.
+- (B) have waited → 현재완료는 과거의 일이 현재까지 영향을 미침을 의미한다.
+- (D) will have waited → 단순미래완료는 미래 시점 완료를 나타낸다.
+
+<br>
+
 ## 2026-06-03
 
 ```

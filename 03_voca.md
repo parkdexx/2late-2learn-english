@@ -6,6 +6,10 @@
 
 <br>
 
+- feasibility
+  - 명사
+    - 타당성, 실현 가능성
+
 - accidental
   - 형용사
     - 우연한
