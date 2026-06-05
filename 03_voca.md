@@ -6,6 +6,10 @@
 
 <br>
 
+- circumvent
+  - 동사
+    - 피하다, 피해가다
+
 - feasibility
   - 명사
     - 타당성, 실현 가능성

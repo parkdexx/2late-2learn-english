@@ -4,6 +4,50 @@
 
 ---------- 
 
+
+<br>
+
+## 2026-06-05
+
+```
+Some vendors tried to ______ the new restrictions by routing shipments through a third party.
+
+A) circumvent
+B) comply with
+C) anticipate
+D) reimburse
+```
+
+### 풀이
+
+- 해석: 일부 업체는 제3자를 통해 배송을 우회함으로써 새 제한을 회피하려 했다.
+- 해설: routing through a third party는 규제를 피해 가는 행동이므로 circumvent가 정답이다.
+
+
+### 분석
+
+- (B) 준수하다 → 문맥과 반대다.
+- (C) 예상하다 → 규제 회피 의미가 없다.
+- (D) 환급하다 → 문맥과 무관하다.
+
+<br>
+
+```
+The firm expanded overseas at the expense ______ its domestic operations.
+
+A) of
+B) to
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 그 회사는 국내 운영을 희생하면서 해외로 확장했다.
+- 해설: at the expense of는 ~를 희생하여라는 표현이다.
+
+<br>
+
 ## 2026-06-04
 
 ```
