@@ -4,6 +4,27 @@
 
 ---------- 
 
+## 2026-06-06
+
+```
+The manager will call you once the shipment ______ the warehouse.
+
+A) leaves
+B) will leave
+C) left
+D) has left
+```
+
+### 풀이
+
+- 해석: 배송이 창고를 떠나면 매니저가 당신에게 전화할 것이다.
+- 해설: once 같은 시간 부사절에서는 미래 의미라도 현재시제로 표현하므로 leaves가 정답이다.
+
+### 분석
+
+- (B) will leave → 시간 부사절에서 미래시제 사용은 부적절하다.
+- (C) left → 과거시제로 의미가 어색하다.
+- (D) has left → 현재완료는 완료 강조로 가능해 보이지만 일반 규칙형 정답은 단순현재 leaves다.
 
 <br>
 
