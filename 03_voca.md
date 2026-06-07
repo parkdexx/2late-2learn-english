@@ -6,7 +6,7 @@
 
 <br>
 
-- audits
+- audit
   - 명사
     - 회계 감사, 검사
 
