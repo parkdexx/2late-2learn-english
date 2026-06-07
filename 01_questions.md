@@ -4,6 +4,31 @@
 
 ---------- 
 
+## 2026-06-07
+
+```
+Regular audits ensure ______ with industry standards.
+
+A) comply
+B) compliance
+C) compliant
+D) compliantly
+```
+
+### 풀이
+
+- 해석: 정기 감사는 업계 기준 준수를 보장한다.
+- 해설: ensure의 목적어는 명사여야 하므로 compliance가 정답이다.
+
+### 분석
+
+- (A) comply → 동사로 목적어 명사 자리 불가능하다.
+- (C) compliant → 형용사로 명사 자리 부적절하다.
+- (D) compliantly → 부사로 문장 구조에 맞지 않다.
+
+
+<br>
+
 ## 2026-06-06
 
 ```
