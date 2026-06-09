@@ -4,6 +4,47 @@
 
 ---------- 
 
+## 2026-06-09
+
+```
+After discovering the clause was outdated, the parties agreed to ______ it from the contract.
+
+A) rescind
+B) endorse
+C) compile
+D) expedite
+```
+
+### 풀이
+
+- 해석: 조항이 오래된 것임을 발견한 뒤, 당사자들은 계약에서 그 조항을 철회하기로 했다.
+- 해설: outdated clause를 없애다라는 의미로 rescind(철회하다)가 정답이다.
+
+### 분석
+
+- (B) endorse : 지지하다 → 의미가 반대다.
+- (C) compile : 편집/수집하다 → 문맥과 무관하다.
+- (D) expedite : 촉진하다로 → 문맥과 맞지 않다.
+
+<br>
+
+```
+Please submit the form prior ______ the deadline.
+
+A) to
+B) as
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 마감일 이전에 양식을 제출해 주십시오.
+- 해설: prior to는 ~이전에라는 고정 표현이다.
+
+
+<br>
+
 ## 2026-06-07
 
 ```
