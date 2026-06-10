@@ -4,6 +4,52 @@
 
 ---------- 
 
+## 2026-06-10
+
+```
+Brand ______ across markets helps customers recognize the product instantly.
+
+A) consistent
+B) consistently
+C) consistency
+D) inconsistency
+```
+
+### 풀이
+
+- 해석: 시장 전반에서의 브랜드 일관성은 고객이 제품을 즉시 알아보는 데 도움이 된다.
+- 해설: 문장 주어 자리에 명사가 필요하므로 consistency가 정답이다.
+
+### 분석
+
+- (A) consistent → 형용사로 주어 명사 자리 부적절하다.
+- (B) consistently → 부사로 주어가 될 수 없다.
+- (D) inconsistency → 명사이지만 의미가 반대다.
+
+<br>
+
+```
+It was the first time the company ______ a refund to all customers.
+
+A) issues
+B) had issued
+C) has issued
+D) will issue
+```
+
+### 풀이
+
+- 해석: 그때는 회사가 모든 고객에게 환불을 해 준 첫 번째 경우였다.
+- 해설: It was the first time 다음에는 **과거완료 had p.p.** 를 쓰는 것이 일반적이다.
+
+### 분석
+
+- (A) issues → 현재시제로 과거 문맥과 맞지 않다.
+- (C) has issued → 현재완료는 현재 기준이라 부적절하다.
+- (D) will issue → 미래시제로 문맥과 맞지 않다.
+
+<br>
+
 ## 2026-06-09
 
 ```
