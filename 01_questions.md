@@ -4,6 +4,30 @@
 
 ---------- 
 
+## 2026-06-12
+
+```
+The report indicates that sales ______ steadily since the new campaign began.
+
+A) rise
+B) rose
+C) have risen
+D) will rise
+```
+
+### 풀이
+
+- 해석: 그 보고서는 새로운 캠페인이 시작된 이후로 판매가 꾸준히 상승해 왔음을 보여준다.
+- 해설: since the new campaign began → 과거 시점 시작 이후 현재까지 계속되는 상승이므로 현재완료 have risen이 정답이다.
+
+### 분석
+
+- (A) rise → 현재시제는 기간을 표현할 수 없다.
+- (B) rose → 과거시제는 현재까지 이어지는 기간을 나타내지 못한다.
+- (D) will rise → 미래시제로 문맥과 맞지 않다.
+
+<br>
+
 ## 2026-06-10
 
 ```

@@ -11,5 +11,6 @@
 | [01_questions.md](./01_questions.md) | 토익 문제 풀이 |
 | [02_cheating-sheet.md](./02_cheating-sheet.md) | 문법 정리    |
 | [03_voca.md](./03_voca.md) | 예문 속 단어 분석 |
+| [04_sentence.md](./04_sentence.md) | 생활 문장 |
 
 <br>
