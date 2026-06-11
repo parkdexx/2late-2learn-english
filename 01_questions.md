@@ -26,6 +26,45 @@ D) will rise
 - (B) rose → 과거시제는 현재까지 이어지는 기간을 나타내지 못한다.
 - (D) will rise → 미래시제로 문맥과 맞지 않다.
  
+ <br>
+
+ ## 2026-06-11
+
+```
+To ______ a shortage, the procurement team ordered components earlier than usual.
+
+A) preempt
+B) postpone
+C) replicate
+D) neglect
+```
+
+### 풀이
+
+- 해석: 부족 사태를 막기 위해 조달팀은 평소보다 일찍 부품을 주문했다.
+- 해설: earlier than usual은 미래의 부족을 예상하고 미리 조치하는 행동이므로 preempt(예방하다)가 가장 적절하다.
+
+### 분석
+
+- (B) postpone : 연기하다 → 문맥상 의미가 반대다.
+- (C) replicate : 복제하다 → 문맥과 무관하다.
+- (D) neglect : 무시하다 → 부족을 예방하는 행동과 맞지 않다.
+
+<br>
+
+```
+In addition ______ the brochure, we will send you a price list.
+
+A) to
+B) of
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 브로슈어에 더해, 가격표도 보내드리겠습니다.
+- 해설: in addition to는 ~에 더하여라는 관용 표현이다.
 
 <br>
 
