@@ -4,6 +4,47 @@
 
 ---------- 
 
+## 2026-06-14
+
+```
+The support team replied in response ______ the customer’s complaint.
+
+A) to
+B) of
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 지원팀은 고객 불만에 대한 응답으로 회신했다.
+- 해설: in response to는 ~에 대한 대응/응답으로라는 숙어이다.
+
+<br>
+
+```
+The store’s ______ increased after the renovation attracted more customers.
+
+A) profitable
+B) profitability
+C) profitably
+D) profitably
+```
+
+### 풀이
+
+- 해석: 그 가게의 수익성은 리노베이션 후 더 많은 고객을 끌어들이면서 증가했다.
+- 해설: store’s의 목적어 자리에는 명사가 필요하므로 profitability 가 정답이다.
+- profitability : 수익성
+
+### 분석
+
+- (A) profitable → 형용사로 명사 자리 부적절하다.
+- (C) profitably → 부사로 명사 자리 부적절하다.
+- (D) profitably → 부사로 문맥과 맞지 않다.
+
+<br>
+
 ## 2026-06-12
 
 ```
