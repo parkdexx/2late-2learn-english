@@ -4,6 +4,31 @@
 
 ---------- 
 
+## 2026-06-15
+
+```
+The company launched a customer loyalty program to ______ repeat purchases.
+
+A) bolster
+B) impede
+C) obscure
+D) abandon
+```
+
+### 풀이
+
+- 해석: 회사는 반복 구매를 강화하기 위해 고객 충성도 프로그램을 시작했다.
+- 해설: repeat purchases → 반복 구매, bolster → 강화하다/지지하다. 고객 프로그램을 통해 반복 구매를 늘리려는 목적이므로 bolster가 정답이다.
+
+### 분석
+
+- (B) impede : 방해하다 → 목적과 반대다.
+- (C) obscure : 모호하게 하다 → 의미가 맞지 않다.
+- (D) abandon : 포기하다 → program을 그만두는 게 아니라 강화하려는 것이다.
+
+
+<br>
+
 ## 2026-06-14
 
 ```
