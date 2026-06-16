@@ -4,6 +4,30 @@
 
 ---------- 
 
+## 2026-06-16
+
+```
+Before the CEO signed the agreement, the legal team ______ every clause.
+
+A) reviews
+B) has reviewed
+C) had reviewed
+D) will review
+```
+
+### 풀이
+
+- 해석: CEO가 계약서에 서명하기 전에 법무팀은 모든 조항을 검토했었다.
+- 해설: Before the CEO signed(과거)보다 먼저 일어난 일이므로 had reviewed(과거완료)가 정답이다.
+
+### 분석
+
+- (A) reviews → 현재시제로 과거 문맥과 맞지 않다.
+- (B) has reviewed → 현재완료는 현재 기준이라 부적절하다.
+- (D) will review → 미래시제로 문맥과 맞지 않다.
+
+<br>
+
 ## 2026-06-15
 
 ```
