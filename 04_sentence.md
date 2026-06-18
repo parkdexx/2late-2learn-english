@@ -4,6 +4,16 @@
 
 ----------
 
+## 2026-06-18
+
+```
+Why don't you apply for the part-time job at this company?
+```
+
+- (권유/제안) 이 회사 시간제 일자리에 지원해보는 게 어때요?
+
+<br>
+
 ## 2026-06-16
 
 ```
