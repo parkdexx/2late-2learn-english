@@ -4,6 +4,68 @@
 
 ---------- 
 
+## 2026-06-18
+
+```
+In an uncertain market, it is ______ to maintain a larger cash reserve.
+
+A) prudent
+B) reckless
+C) negligible
+D) arbitrary
+```
+
+### 풀이
+
+- 해석: 불확실한 시장 상황에서는 더 많은 현금 보유량을 유지하는 것이 현명하다.
+- 해설: prudent은 현명한, 신중한 이라는 뜻으로 문맥상 가장 적절하다.
+
+### 분석
+
+- (B) reckless : 무모한 → 반대 의미다.
+- (C) negligible : 무시할 수 있을 정도의 → 현금 보유량과 관련 없다.
+- (D) arbitrary : 임의적인 → 기준이 없는 느낌으로 부적절하다.
+
+<br>
+
+```
+She signed the document on behalf ______ the entire committee.
+
+A) of
+B) to
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 그녀는 전체 위원회를 대신하여 서류에 서명했다.
+- 해설: on behalf of는 ~을 대신하여라는 숙어이다.
+
+<br>
+
+```
+The policy clarifies each employee’s ______ in handling sensitive information.
+
+A) responsible
+B) responsibly
+C) responsibility
+D) irresponsible
+```
+
+### 풀이
+
+- 해석: 그 정책은 민감한 정보를 취급하는 데 있어 각 직원의 책임을 명확히 한다.
+- 해설: each employee’s 뒤에는 명사 자리이므로 responsibility가 정답이다.
+
+### 분석
+
+- (A) responsible → 형용사로 명사 자리 부적절
+- (B) responsibly → 부사로 명사 자리 부적절
+- (D) irresponsible → 명사이지만 의미가 반대다
+
+<br>
+
 ## 2026-06-16
 
 ```
