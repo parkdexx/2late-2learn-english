@@ -4,6 +4,53 @@
 
 ---------- 
 
+## 2026-06-19
+
+```
+Remote work offers greater ______ for employees with long commutes.
+
+A) flexible
+B) flexibility
+C) flexibly
+D) inflexible
+```
+
+### 풀이
+
+- 해석: 재택근무는 통근 시간이 긴 직원들에게 더 큰 유연성을 제공한다.
+- 해설: greater 뒤에는 명사가 와야 하므로 flexibility가 정답이다.
+  - 형태 : 비교급 + than / 비교급 + 명사 / 비교급 + 생략 
+
+### 분석
+
+- (A) flexible → 형용사로 명사 자리 부적절
+- (C) flexibly → 부사로 명사 자리 부적절
+- (D) inflexible → 명사이지만 의미가 반대다
+
+<br>
+
+```
+If the data ______ accurately, the forecast would be more reliable.
+
+A) are recorded
+B) were recorded
+C) had been recorded
+D) will be recorded
+```
+
+### 풀이
+
+- 해석: 만약 데이터가 정확하게 기록된다면, 그 예측은 더 신뢰할 수 있을 것이다.
+- 해설: 가정법 문장으로, 현재 사실과 반대되거나 실현 가능성이 낮은 일을 가정하는 **가정법 과거(If + 주어 + were, 주어 + would + 동사원형)** 형태이다. 따라서 were recorded가 정답이다.
+
+### 분석
+
+- (A) are recorded → 현재 시제는 현재 사실 기반이라 가정법 의미와 맞지 않다.
+- (C) had been recorded → 과거완료는 과거 사실 반대이므로 현재 사실을 가정하는 이 문맥과 부적절하다.
+- (D) will be recorded → 미래 시제는 가정법 조건절에 쓰이지 않는다.
+
+<br>
+
 ## 2026-06-18
 
 ```
