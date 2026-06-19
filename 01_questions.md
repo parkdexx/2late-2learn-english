@@ -4,6 +4,30 @@
 
 ---------- 
 
+## 2026-06-20
+
+```
+With respect ______ the schedule, the meeting has been moved to Friday.
+
+A) to
+B) of
+C) with
+D) for
+```
+
+### 풀이
+
+- 해석: 일정과 관련하여, 그 회의는 금요일로 연기되었다.
+- 해설: with respect to는 ~와 관련하여 라는 숙어이다. 따라서 to가 정답이다.
+
+### 분석
+
+- (B) of → 숙어 표현이 아니다.
+- (C) with → 숙어 표현이 아니다.
+- (D) for → 숙어 표현이 아니다.
+
+<br>
+
 ## 2026-06-19
 
 ```
