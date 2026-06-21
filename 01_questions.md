@@ -4,6 +4,30 @@
 
 ---------- 
 
+## 2026-06-21
+
+```
+The accountant was ______ about verifying receipts before approving reimbursements.
+
+A) scrupulous
+B) careless
+C) indifferent
+D) obsolete
+```
+
+### 풀이
+
+해석: 회계사는 경비 지급을 승인하기 전에 영수증을 확인하는 데 매우 꼼꼼했다.
+해설: scrupulous 은 꼼꼼한, 세심한 이라는 뜻으로 문맥상 가장 적절하다.
+
+### 분석
+
+- (B) careless : 부주의한 → 반대 의미다.
+- (C) indifferent : 무관심한 → 반대 의미다.
+- (D) obsolete : 시대에 뒤떨어진 → 의미가 맞지 않다.
+
+<br>
+
 ## 2026-06-20
 
 ```
