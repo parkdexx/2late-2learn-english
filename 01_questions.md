@@ -4,6 +4,54 @@
 
 ---------- 
 
+
+
+## 2026-06-23
+
+```
+The website redesign improved ______ for users with visual impairments.
+
+A) accessible
+B) accessibility
+C) accessibly
+D) inaccessible
+```
+
+### 풀이
+
+해석: 웹사이트 재설계는 시각 장애가 있는 사용자들의 접근성을 향상시켰다.
+해설: improved는 개선하다라는 동사이며, 이 뒤에는 명사가 와야 하므로 accessibility 가 정답이다.
+
+### 분석
+
+- (A) accessible → 형용사로 명사 자리 부적절
+- (C) accessibly → 부사로 명사 자리 부적절
+- (D) inaccessible → 명사이지만 의미가 반대다
+
+<br>
+
+```
+By the time we reached the venue, the keynote speaker ______.
+
+A) starts
+B) has started
+C) had started
+D) will start
+```
+
+### 풀이
+
+해석: 우리가 그 장소에 도착했을 때쯤, 기조연설자는 이미 연설을 시작했었다.
+해설: By the time + 주어 + 과거동사 ~했을 때쯤, 주어 + had p.p ~했었다 라는 과거완료 시제 표현이다.
+
+### 분석
+
+- (A) starts: 현재 시제로 시점이 맞지 않는다.
+- (B) has started: 현재완료는 현재 시점을 기준으로 과거 사실을 나타내므로 부적절하다.
+- (D) will start: 미래 시제로 문맥상 맞지 않는다.
+
+<br>
+
 ## 2026-06-21
 
 ```
