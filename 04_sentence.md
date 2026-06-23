@@ -6,6 +6,18 @@
 
 
 
+
+## 2026-06-24
+
+```
+He probably regretted starring in this one.
+```
+
+- 그는 아마 이 작품에 출연한 것을 후회했을 것이다.
+- regret + -ing → ~한 것을 후회하다.
+
+<br>
+
 ## 2026-06-23
 
 ```
