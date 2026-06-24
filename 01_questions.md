@@ -6,6 +6,31 @@
 
 
 
+
+## 2026-06-24
+
+```
+The two departments are at odds ______ the proposed policy change.
+
+A) with
+B) to
+C) of
+D) for
+```
+
+### 풀이
+
+해석: 두 부서는 제안된 정책 변경에 대해 의견이 일치하지 않는다.
+해설: be at odds with ~는 (~와) 의견이 대립하다, 사이가 좋지 않다 라는 숙어이다.
+
+### 분석
+
+- (B) to → 숙어 표현이 아니다.
+- (C) of → 숙어 표현이 아니다.
+- (D) for → 숙어 표현이 아니다.
+
+<br>
+
 ## 2026-06-23
 
 ```
