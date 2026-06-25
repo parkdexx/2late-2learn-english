@@ -7,6 +7,58 @@
 
 
 
+
+
+
+
+
+
+## 2026-06-25
+
+```
+The supplier acknowledged that it ______ unable to meet the original schedule.
+
+A) is
+B) was
+C) has been
+D) will be
+```
+
+### 풀이
+
+해석: 공급업체는 원래 일정에 맞출 수 없었음을 인정했다.
+해설: acknowledged는 인정하다라는 동사이며, 이 뒤에는 that 절이 왔고, acknowledge의 주어가 the supplier이므로 과거에 인정했다라는 의미로 was가 가장 적절하다.
+
+### 분석
+
+- (A) is → 현재 시제로 문맥상 맞지 않다.
+- (C) has been → 현재완료는 현재 시점을 기준으로 과거 사실을 나타내므로 부적절하다.
+- (D) will be → 미래 시제로 문맥상 맞지 않는다.
+
+<br>
+
+```
+The new bonus plan helped ______ the sales staff, who had been losing motivation.
+
+A) galvanize
+B) nullify
+C) condense
+D) postpone
+```
+
+### 풀이
+
+해석: 그 새로운 보너스 제도는 동기 부여를 잃어가던 영업 사원들에게 활기를 불어넣는 데 도움이 되었다.
+해설: galvanize는 활기를 불어넣다, 자극하다라는 뜻으로, 동기 부여가 떨어진 직원들을 격려하는 상황에 가장 적절하다.
+
+### 분석
+
+- (B) nullify : 무효화하다 → 의미가 맞지 않는다.
+- (C) condense : 응축하다, 간략하게 하다 → 의미가 맞지 않는다.
+- (D) postpone : 연기하다 → 문맥상 부적절하다.
+
+<br>
+
 ## 2026-06-24
 
 ```
