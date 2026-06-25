@@ -40,9 +40,9 @@
 
 | 구분 | 단순 | 진행 | 완료 | 완료진행 |
 |-----|-----|-----|-----|-----|
-|현재|I work <br>나는 일한다|I am working <br>나는 (지금)일하고 있다|I have worked <br>나는 (지금껏)일해왔다|I have been working <br>나는 (전부터 지금까지 쭉)일해오고 있다|
-|과거|I worked <br>나는 일했다|I was working <br>나는 일하고 있었다|I had worked <br>나는 (그전부터)일해왔었다|I had been working <br>나는 (그전부터 지금까지 쭉)일해오고 있었다|
-|미래|I will work <br>나는 일할 것이다|I will be working <br>나는 일하고 있을 것이다|I will have worked <br>나는 (미래에는)일을 마쳤을 것이다|I will have been working <br>나는 (미래까지 쭉)일하고 있을 것이다|
+|현재|am/are/is/동사원형|am/are/is + 동사ing|have/has + p.p.|have/has + been + 동사ing|
+|과거|동사ed (불규칙 있음)|was/were + 동사ing|had + p.p.|had + been + 동사ing|
+|미래|will + 동사원형|will + be + 동사ing|will + have + p.p.|will + have + been + 동사ing|
 
 
 <br>
