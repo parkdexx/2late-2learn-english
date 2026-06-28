@@ -10,8 +10,53 @@
 
 
 
+<br>
 
+## 2026-06-28
 
+```
+The new guidelines are in keeping ______ our commitment to quality.
+
+A) with
+B) to
+C) of
+D) for
+```
+
+### 풀이
+
+해석: 그 새로운 지침은 품질에 대한 우리의 약속과 일치한다.
+해설: in keeping with (~와 일치하여, ~와 조화를 이루어) 는 전치사구 숙어이므로 with가 정답이다.
+
+### 분석
+
+- (B) to → 숙어 표현이 아니다.
+- (C) of → 숙어 표현이 아니다.
+- (D) for → 숙어 표현이 아니다.
+
+<br>
+
+```
+Shorter meetings can boost ______ by reducing interruptions.
+
+A) productive
+B) productivity
+C) productive
+D) unproductive
+```
+
+### 풀이
+
+해석: 더 짧은 회의는 방해를 줄임으로써 생산성을 높일 수 있다.
+해설: boost는 동사이며, 이 뒤에는 목적어로 명사가 와야 하므로 productivity가 정답이다.
+
+### 분석
+
+- (A) productive → 형용사로 명사 자리 부적절
+- (C) productive → 형용사로 명사 자리 부적절
+- (D) unproductive → 명사이지만 의미가 반대다
+
+<br>
 
 ## 2026-06-25
 
