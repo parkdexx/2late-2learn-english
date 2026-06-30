@@ -10,6 +10,52 @@
 
 
 
+
+
+
+## 2026-06-30
+
+```
+The client will not renew the contract unless the service ______ significantly.
+
+A) improves
+B) will improve
+C) improved
+D) has improved
+```
+
+### 풀이
+해석: 그 서비스가 상당히 개선되지 않는 한, 고객은 계약을 갱신하지 않을 것이다.
+해설: unless는 '-하지 않는 한(조건)'의 의미를 가진 접속사로, unless 뒤에는 미래형이 아닌 현재형이 와야 한다. 주절이 will not(미래)이므로, 부사절인 unless절에는 현재 시제(A)가 온다. 따라서 (A) improves가 정답이다.
+
+### 분석
+
+- (B) will improve: unless절에는 미래형을 쓸 수 없다.
+- (C) improved: 과거형으로, 문맥상 현재 시점이므로 적절하지 않다.
+- (D) has improved: 현재완료형으로, 문맥상 부적절하다.
+
+
+<br>
+
+```
+Employees complained that the reimbursement process was ______ and required too many forms.
+
+A) cumbersome
+B) seamless
+C) concise
+D) optional
+```
+
+### 풀이
+해석: 직원들은 경비 처리 과정이 번거롭고 양식이 너무 많다고 불평했다.
+해설: 문맥상 '번거롭고'라는 부정적인 의미가 와야 하며, 보기 중에서는 cumbersome(번거로운, 다루기 힘든)이 가장 적절하다.
+
+### 분석
+
+- (B) seamless : 매끄러운, 이음새가 없는 → 의미가 맞지 않는다.
+- (C) concise : 간결한 → 의미가 맞지 않는다.
+- (D) optional : 선택적인 → 의미가 맞지 않는다.
+
 <br>
 
 ## 2026-06-28
