@@ -9,9 +9,49 @@
 
 
 
+## 2026-07-01
 
+```
+The audit was conducted for the sake ______ transparency.
 
+A) of
+B) to
+C) with
+D) for
+```
 
+### 풀이
+해석: 그 감사는 투명성을 확보하기 위해 실시되었다.
+해설: for the sake of (~을 위해, ~의 이익을 위해)는 전치사구 숙어이므로 of가 정답이다.
+
+### 분석
+
+- (B) to → 숙어 표현이 아니다.
+- (C) with → 숙어 표현이 아니다.
+- (D) for → 숙어 표현이 아니다.
+
+<br>
+
+```
+Conflicting statements damaged the spokesperson’s ______ with the public.
+
+A) credible
+B) credibility
+C) credibly
+D) incredible
+```
+
+### 풀이
+해석: 상반된 진술은 그 대변인의 대중적 신뢰를 훼손했다.
+해설: spokesperson’s 는 소유격이므로, 뒤에는 명사가 와야 한다. 보기 중 명사는 credibility 뿐이므로 정답이다.
+
+### 분석
+
+- (A) credible : 형용사로 명사 자리 부적절
+- (C) credibly : 부사로 명사 자리 부적절
+- (D) incredible : 형용사로 명사 자리 부적절
+
+<br>
 
 ## 2026-06-30
 
