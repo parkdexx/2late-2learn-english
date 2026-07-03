@@ -9,6 +9,42 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+## 2026-07-03
+
+```
+Without saying it directly, the supervisor gave ______ approval by nodding during the meeting.
+
+A) tacit
+B) explicit
+C) adverse
+D) reluctant
+```
+
+### 풀이
+해석: supervisors는 회의 중에 고개를 끄덕임으로써 묵시적 승인을 보냈다.
+해설: tacit approval (~을 말없이 승인함, 묵시적인 동의)은 숙어 표현으로, ‘말없이’라는 의미를 지닌 tacit이 정답이다. 
+
+### 분석
+- (B) explicit: 명백한 → 문맥상 부적절
+- (C) adverse: 부정적인 → 의미가 맞지 않는다.
+- (D) reluctant: 마지못해 하는 → 의미가 맞지 않는다.
+
+<br>
+
 ## 2026-07-01
 
 ```
