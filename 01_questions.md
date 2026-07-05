@@ -21,6 +21,48 @@
 
 
 
+## 2026-07-05
+
+```
+Please confirm your ______ for the reimbursement program before submitting the form.
+
+A) eligible
+B) eligibility
+C) eligibly
+D) ineligible
+```
+
+### 풀이
+해석: 서식을 제출하기 전에, 리베이트 프로그램에 대한 당신의 자격 요건을 확인해 주세요.
+해설: 빈칸 앞에는 your(소유격)가 있고 뒤에 for the reimbursement program(전치사구)이 이어지므로, 빈칸에는 명사가 들어가야 한다.
+
+### 분석
+- (A) eligible: 형용사 - 자격이 있는
+- (B) eligibility: 명사 - 적합성, 자격
+- (C) eligibly: 부사
+- (D) ineligible: 형용사 - 부적격의
+
+<br>
+
+```
+While the auditors ______ the records, several discrepancies came to light.
+
+A) review
+B) were reviewing
+C) have reviewed
+D) will review
+```
+
+### 풀이
+해석: 감사자들이 기록을 검토하던 중에 몇몇 불일치가 드러났다.
+해설: 문맥상 감사자들이 기록을 검토하는 **행위가 진행 중일 때(과거 진행)**, 불일치가 발견된 것이다(과거 단순). 따라서 과거 진행형인 (B) were reviewing이 정답이다.
+
+### 분석
+- (A) review: 현재 시제 → 문맥상 과거의 상황이므로 부적절
+- (C) have reviewed: 현재완료 → 과거 진행 중인 사건과 어울리지 않음
+- (D) will review: 미래 시제 → 과거 시점과 맞지 않음
+
+
 <br>
 
 ## 2026-07-03
