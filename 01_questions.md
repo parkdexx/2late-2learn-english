@@ -20,6 +20,48 @@
 
 
 
+## 2026-07-06
+
+```
+The vendor was ______ with information, sharing only what was strictly necessary.
+
+A) parsimonious
+B) generous
+C) transparent
+D) excessive
+```
+
+### 풀이
+해석: 공급업체는 꼭 필요한 정보만 공유하며 정보 제공에 인색했다.
+해설: 빈칸 앞에는 was가 있고 뒤에 with information(전치사구)이 이어지므로, 빈칸에는 형용사가 들어가야 한다.
+
+### 분석
+- (A) parsimonious: 형용사 - 인색한, 지나치게 아끼는
+- (B) generous: 형용사 - 관대한, 아낌없는
+- (C) transparent: 형용사 - 투명한
+- (D) excessive: 형용사 - 과도한
+
+<br>
+
+```
+All overseas travel is subject ______ prior approval from the director.
+
+A) to
+B) of
+C) with
+D) for
+```
+### 풀이
+해석: 모든 해외 여행은 국장의 사전 승인을 받아야 합니다.
+해설: be subject to (~을 받다, ~의 대상이 되다)는 전치사구 숙어이므로 to가 정답이다.
+
+### 분석
+- (B) of → 숙어 표현이 아니다.
+- (C) with → 숙어 표현이 아니다.
+- (D) for → 숙어 표현이 아니다.
+
+
+<br>
 
 ## 2026-07-05
 
