@@ -17,7 +17,15 @@
 
 
 
+## 2026-07-08
 
+```
+What channel is the soccer match on tonight?
+```
+
+- 오늘 저녁에 축구 경기가 몇 번 채널에서 하나요?
+
+<br>
 
 ## 2026-07-07
 
