@@ -19,7 +19,14 @@
 
 
 
+## 2026-07-07
 
+```
+He's going to regret it in the long run.
+```
+
+- 그는 결국 그것을 후회할 것이다.
+- in the long run : 결국, 장기적으로
 
 <br>
 
