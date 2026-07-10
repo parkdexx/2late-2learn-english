@@ -16,6 +16,18 @@
 
 
 
+<br>
+
+## 2026-07-10
+
+```
+You'll need a good reference for your next job.
+```
+
+- 다음 직장을 위해서는 좋은 추천서가 필요할 거예요.
+  - reference : 추천서
+
+<br>
 
 ## 2026-07-09
 
