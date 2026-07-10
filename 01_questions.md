@@ -20,6 +20,91 @@
 
 
 
+## 2026-07-10
+
+```
+Before the audit, the finance team worked late to ______ the ledger with the bank statements.
+
+A) reconcile
+B) inflate
+C) bypass
+D) endorse
+```
+
+### 풀이
+해석: 감사 전에 재무팀은 장부를 은행 거래 명세서와 대조하기 위해 늦게까지 일했다.
+해설: 문맥상 '대조하다, 일치하다'라는 뜻을 가진 reconcile(v.)이 적절하다.
+
+### 분석
+- (A) reconcile: 대조하다, 일치하다 → 적절
+- (B) inflate: 부풀리다, 과장하다 → 문맥상 부적절
+- (C) bypass: 우회하다, 무시하다 → 문맥상 부적절
+- (D) endorse: 지지하다, 보증하다 → 문맥상 부적절
+
+<br>
+
+```
+The employee is responsible ______ submitting the monthly summary by Friday.
+
+A) for
+B) to
+C) with
+D) of
+```
+
+### 풀이
+해석: 그 직원은 금요일까지 월간 요약 보고서를 제출할 책임이 있다.
+해설: be responsible for (~에 대한 책임이 있는)는 전치사구 숙어이므로 for가 정답이다.
+
+### 분석
+- (B) to → 숙어 표현이 아니다.
+- (C) with → 숙어 표현이 아니다.
+- (D) of → 숙어 표현이 아니다.
+
+<br>
+
+```
+Because the file contains highly ______ information, it is stored on an encrypted drive.
+
+A) sensitive
+B) sensitivity
+C) sensitively
+D) insensitive
+```
+
+### 풀이
+해석: 이 파일에는 매우 민감한 정보가 포함되어 있기 때문에 암호화된 드라이브에 저장됩니다.
+해설: 빈칸 앞에는 highly가 있고 뒤에 information(명사)이 이어지므로, 빈칸에는 형용사가 와야 한다. 
+
+### 분석
+- (A) sensitive: 형용사 - 민감한
+- (B) sensitivity: 명사 - 민감성
+- (C) sensitively: 부사
+- (D) insensitive: 형용사 - 둔감한, 무감각한
+
+<br>
+
+```
+The policy had already expired when the employee ______ to file the claim.
+
+A) tries
+B) tried
+C) has tried
+D) will try
+```
+
+### 풀이
+해석: 직원이 청구서를 제출하려고 했을 때 그 정책은 이미 만료되었다.
+해설: 주절의 시제가 과거완료(`had already expired`)로 과거의 특정 시점보다 이전에 일어난 일(대과거)을 나타내고 있습니다. 따라서 기준이 되는 과거 시점을 나타내는 `when` 부사절에는 과거 시제인 (B) `tried`가 오는 것이 가장 적절합니다.
+
+### 분석
+- (A) tries: 현재 시제 → 문맥상 과거 시점이므로 부적절
+- (B) tried: 과거 시제 → 문맥상 과거 시점이므로 적절
+- (C) has tried: 현재완료 → 문맥상 과거 시점이므로 부적절
+- (D) will try: 미래 시제 → 문맥상 과거 시점이므로 부적절
+
+<br>
+
 ## 2026-07-06
 
 ```
