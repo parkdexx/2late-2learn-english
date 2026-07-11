@@ -14,7 +14,16 @@
 
 
 
+<br>
 
+## 2026-07-11
+
+```
+I just had my head in the clouds.
+```
+
+- 나 지금 딴생각하고 있었어.
+- had my head in the clouds : 멍때리다, 딴생각하다. (과거형)
 
 <br>
 
