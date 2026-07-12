@@ -19,6 +19,90 @@
 
 
 
+## 2026-07-12
+
+```
+It was ______ that the key engineer was available on short notice, allowing the project to stay on schedule.
+
+A) fortuitous
+B) mandatory
+C) negligible
+D) obsolete
+```
+
+### 풀이
+해석: 핵심 엔지니어가 급하게 자리를 비우지 못하게 된 것은 운이 좋았습니다. 덕분에 프로젝트는 일정대로 진행될 수 있었습니다.
+해설: 문맥상 '운이 좋게도'라는 뜻의 형용사가 필요하며, 빈칸 앞에는 It was가 있고 뒤에 that이 이어지므로, 빈칸에는 형용사가 들어가야 한다.
+
+### 분석
+- (A) fortuitous: 형용사 - 운이 좋은, 뜻밖의 → 적절
+- (B) mandatory: 형용사 - 의무적인 → 부적절
+- (C) negligible: 형용사 - 무시할 수 있는 → 부적절
+- (D) obsolete: 형용사 - 시대에 뒤떨어진 → 부적절
+
+<br>
+
+```
+Certain items are exempt ______ return under the store policy.
+
+A) from
+B) of
+C) to
+D) with
+```
+
+### 풀이
+해석: 해당 품목은 매장 정책에 따라 반품이 면제됩니다.
+해설: be exempt from (~에서 면제된)은 전치사구 숙어이므로 from이 정답이다.
+
+### 분석
+- (B) of → 숙어 표현이 아니다.
+- (C) to → 숙어 표현이 아니다.
+- (D) with → 숙어 표현이 아니다.
+
+<br>
+
+```
+The packaging is remarkably ______ and can withstand extreme temperatures.
+
+A) durable
+B) durability
+C) durably
+D) durables
+```
+
+### 풀이
+해석: 그 포장재는 매우 튼튼하며 극한의 온도에서도 견딜 수 있습니다.
+해설: 빈칸 앞에는 is가 있고 뒤에 and로 연결되는 can withstand extreme temperatures(주절)이 이어지므로, 빈칸에는 형용사가 와야 한다.
+
+### 분석
+- (A) durable: 형용사 - 튼튼한, 내구성이 좋은 → 적절
+- (B) durability: 명사 - 내구성 → 부적절
+- (C) durably: 부사 - 튼튼하게 → 부적절
+- (D) durables: 명사 - 내구성 있는 제품들 → 부적절
+
+<br>
+
+```
+Since the training was introduced, accident rates ______ dramatically
+
+A) drop
+B) dropped
+C) have dropped
+D) will drop
+```
+
+### 풀이
+해석: 훈련이 도입된 이후로, 사고율은 극적으로 감소했습니다.
+해설: since는 '~이후로'라는 뜻으로, 과거부터 현재까지의 기간을 나타냅니다. 
+
+### 분석
+- (A) drop: 현재 시제 → 문맥상 현재까지 영향을 미치고 있는 과거 시점이므로 부적절
+- (B) dropped: 과거 시제 → 문맥상 현재까지 영향을 미치고 있는 과거 시점이므로 부적절
+- (C) have dropped: 현재완료 → 훈련이 도입된 **과거 시점부터 현재까지** 사고율이 계속 감소해왔다는 의미로 가장 적절
+- (D) will drop: 미래 시제 → 미래에 일어날 일이므로 부적절
+
+<br>
 
 ## 2026-07-10
 
