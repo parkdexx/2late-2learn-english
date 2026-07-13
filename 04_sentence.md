@@ -12,7 +12,17 @@
 
 
 
+<br>
 
+## 2026-07-13
+
+```
+A: Which way are you headed?
+B: I'm going along this street towards the library.
+```
+
+- A: 어느 방향으로 가시는 거예요?
+- B: 이 길을 따라 도서관 쪽으로 가고 있어요.
 
 <br>
 
