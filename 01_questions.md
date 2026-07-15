@@ -15,7 +15,28 @@
 
 
 
+<br>
 
+## 2026-07-15
+
+```
+All technicians must ______ safety procedures during equipment installation.
+
+A) prioritize
+B) priority
+C) prioritizing
+D) prioritization
+```
+
+### 풀이
+- 해석: 모든 기술자는 장비 설치 중에 안전 절차를 최우선으로 해야 합니다.
+- 해설: 빈칸 앞에 `must`가 있고 뒤에 `safety procedures`(목적어)가 있으므로, 빈칸에는 동사가 와야 한다. 주어는 복수(`All technicians`)이므로 동사 원형(`prioritize`)을 사용한다.
+
+### 분석
+- (A) prioritize: 동사 원형 - 우선순위를 매기다 → 적절
+- (B) priority: 명사 - 우선순위 → 부적절
+- (C) prioritizing: 동명사/현재분사 → 동사 자리에 부적절
+- (D) prioritization: 명사 - 우선순위화 → 부적절
 
 <br>
 
