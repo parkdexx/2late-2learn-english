@@ -8,7 +8,15 @@
 
 
 
+<br>
 
+## 2026-07-16
+
+```
+We're like two peas in a pod.
+```
+
+- 우리는 붕어빵이야.
 
 <br>
 
