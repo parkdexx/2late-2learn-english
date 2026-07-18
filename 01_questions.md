@@ -12,8 +12,49 @@
 
 
 
+<br>
 
+## 2026-07-19
 
+```
+The deadline is ______, so extensions will not be granted under any circumstances.
+
+A) immutable
+B) flexible
+C) tentative
+D) conditional
+```
+
+### 풀이
+- 해석: 마감일이 변경할 수 없기 때문에 어떤 상황에서도 연장은 허용되지 않을 것입니다.
+- 해설: 뒤에 "extensions will not be granted under any circumstances" (어떤 상황에서도 연장은 허용되지 않을 것입니다)라는 내용이 오므로, 빈칸에는 **변경할 수 없는, 확정된** 이라는 뜻의 형용사가 와야 한다.
+
+### 분석
+- (A) immutable: 형용사 - 변경할 수 없는, 확정된 → 적절
+- (B) flexible: 형용사 - 유연한, 변경할 수 있는 → 부적절
+- (C) tentative: 형용사 - 잠정적인, 임시의 → 부적절
+- (D) conditional: 형용사 - 조건부의 → 부적절
+
+<br>
+
+```
+The new design is consistent ______ the brand’s overall image.
+
+A) with
+B) to
+C) of
+D) for
+```
+
+### 풀이
+- 해석: 그 새로운 디자인은 브랜드의 전체 이미지와 일치합니다.
+- 해설: consistent는 항상 전치사 with와 함께 쓰입니다.
+
+### 분석
+- (A) with: 전치사 - ~와 일치하는, ~와 일관된 → 적절
+- (B) to: 전치사 - ~에게, ~로 → 부적절
+- (C) of: 전치사 - ~의 → 부적절
+- (D) for: 전치사 - ~을 위해 → 부적절
 
 <br>
 

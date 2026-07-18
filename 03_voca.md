@@ -8,7 +8,26 @@
 
 
 
+<br>
 
+## 2026-07-19
+
+```
+circumstances
+```
+
+- 명사
+  - 상황
+  - under any circumstances : 어떤 상황에서도
+
+<br>
+
+```
+immutable
+```
+
+- 형용사
+  - 변경할 수 없는, 확정된
 
 <br>
 
