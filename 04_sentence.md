@@ -11,8 +11,16 @@
 
 
 
+<br>
 
+## 2026-07-22
 
+```
+Our boss has been breathing down my neck.
+```
+
+- 우리 상사가 계속 나한테 압박을 주고 있어요.
+  - breathe down one's neck : ~에게 (계속) 압력을 가하다, ~을 지나치게 감시하다
 
 <br>
 
