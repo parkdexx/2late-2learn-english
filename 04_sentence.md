@@ -14,11 +14,20 @@
 ## 2026-07-23
 
 ```
+Your free Automation Cloud account will be deactivated.
+```
+
+- 당신의 무료 자동화 클라우드 계정이 비활성화될 것입니다.
+  - deactivate : 비활성화하다, 중지시키다
+
+<br>
+
+```
 My credit card is missing.
 ```
 
 - 신용카드를 잃어버렸어요.
-- missing : 실종된, 분실된, 없는
+  - missing : 실종된, 분실된, 없는
 
 <br>
 
