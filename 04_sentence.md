@@ -9,7 +9,16 @@
 
 
 
+<br>
 
+## 2026-07-23
+
+```
+My credit card is missing.
+```
+
+- 신용카드를 잃어버렸어요.
+- missing : 실종된, 분실된, 없는
 
 <br>
 
