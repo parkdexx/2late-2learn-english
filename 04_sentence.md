@@ -8,7 +8,16 @@
 
 
 
+<br>
 
+## 2026-07-25
+
+```
+May I see your boarding pass?
+```
+
+- 탑승권 좀 보여주시겠어요?
+  - boarding pass : 탑승권
 
 <br>
 
