@@ -9,6 +9,22 @@
 
 
 
+
+<br>
+
+## 2026-07-24
+
+```
+I like to listen to music while I'm working, but nothing too distracting.
+I get really easily distracted.
+```
+
+- 저는 일하는 동안 음악 듣는 것을 좋아하지만, 너무 산만한 것은 안 돼요.
+  - distracting : 주의를 산만하게 하는, 정신을 분산시키는
+- 저는 정말 쉽게 산만해져요.
+  - easily : 쉽게
+  - distracted : 집중하지 못하는, 정신이 산만한
+
 <br>
 
 ## 2026-07-23
