@@ -6,7 +6,24 @@
 
 
 
+<br>
 
+## 2026-07-27
+
+```
+Do you have any idea how much the fare will be?
+```
+
+- 요금이 얼마나 나올지 짐작이 가시나요?
+  - do you have any idea : ~인지 짐작이 가세요?
+
+<br>
+
+```
+Where to?
+```
+
+- 어디로 가세요?
 
 <br>
 
