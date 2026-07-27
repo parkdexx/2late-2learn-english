@@ -6,6 +6,21 @@
 
 
 
+
+
+
+
+<br>
+
+## 2026-07-28
+
+```
+Should we meet online or in person?
+```
+
+- 온라인으로 만날까요, 아니면 직접 만날까요?
+  - in person : 직접
+
 <br>
 
 ## 2026-07-27
