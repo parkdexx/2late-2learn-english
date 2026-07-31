@@ -11,6 +11,18 @@
 
 <br>
 
+## 2026-07-31
+
+```
+I'd like to see a pair of hiking boots.
+```
+
+- 등산화 한 켤레를 보고 싶습니다.
+  - a pair of : 한 켤레, 한 쌍
+  - hiking boots : 등산화
+
+<br>
+
 ## 2026-07-30
 
 ```
