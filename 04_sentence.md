@@ -12,7 +12,16 @@
 
 <br>
 
+## 2026-08-01
 
+```
+Liability insurance will cost you 10 dollars a day.
+```
+
+- 책임 보험은 하루에 10달러입니다.
+  - Liability insurance : 면책 보험, 책임 보험
+  - cost : 비용이 들다, ~의 비용이 들다, ~을 필요로 하다
+  - 10 dollars a day : 하루에 10달러
 
 <br>
 
