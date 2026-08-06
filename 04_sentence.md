@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-08-06
+
+```
+What are the major tourist attractions in Seoul?
+```
+
+- 서울의 주요 관광 명소는 어디인가요?
+  - major : 주요한, 중요한
+  - tourist attraction : 관광 명소
+
+<br>
+
 ## 2026-08-04
 
 ```
