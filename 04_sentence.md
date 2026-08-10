@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-08-10
+
+```
+What was your most memorable trip?
+```
+
+- 당신이 기억에 남는 여행은 언제입니까?
+  - memorable : 기억에 남을 만한
+  - trip : 여행
+
+<br>
+
 ## 2026-08-07
 
 ```
