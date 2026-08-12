@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-08-12
+
+```
+I'd like to have this prescription filled.
+```
+
+- 이 처방전대로 약을 조제 받고 싶습니다.
+  - prescription : 처방전
+  - fill : 채우다, (처방전을) 조제하다.
+
+<br>
+
 ## 2026-08-10
 
 ```
