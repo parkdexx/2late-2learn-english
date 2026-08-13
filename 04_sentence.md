@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-13
+
+```
+When did you first become interested in music?
+```
+
+- 음악에 처음 관심을 갖게 된 계기가 언제인가요?
+  - interested in ~ : ~에 관심이 있는
+
+<br>
+
 ## 2026-08-12
 
 ```
