@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-14
+
+```
+Every brand has its own advantage.
+```
+
+- 모든 브랜드는 저마다의 장점을 가지고 있다.
+  - advantage : 이점, 장점
+
+<br>
+
 ## 2026-08-13
 
 ```
