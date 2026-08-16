@@ -4,13 +4,27 @@
 
 ---------- 
 
+<br>
 
+## 2026-08-16
 
+```
+By the time the contract was signed, the parties ______ all major terms.
 
+A) had agreed
+B) have agreed
+C) agree
+D) will agree
+```
 
+- 해석: 계약이 체결될 무렵, 당사자들은 주요 조항에 모두 합의했었다.
+- 해설: By + 과거 시점(~할 무렵)은 **과거완료(had + p.p.)** 시제와 함께 사용되어, 과거의 특정 시점보다 먼저 완료된 행동을 나타낸다.
 
-
-
+### 분석
+- (A) had agreed: 과거완료 → 계약 체결(과거)보다 먼저 완료된 합의를 나타냄 → 적절
+- (B) have agreed: 현재완료 → 과거에서 현재까지의 기간을 나타내므로 부적절
+- (C) agree: 단순 현재 → 현재 시점의 사실이므로 부적절
+- (D) will agree: 단순 미래 → 미래 시점이므로 부적절
 
 <br>
 
