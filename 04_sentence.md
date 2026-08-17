@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-08-17
+
+```
+Can you come downstairs for a minute right now?
+```
+
+- 잠시 지금 아래층으로 내려올 수 있나요?
+  - downstairs : 계단을 따라 아래층으로(부사)
+    - downstairs 는 명사, 형용사로도 쓰일 수 있지만 여기서는 부사로 쓰임
+
+<br>
+
 ## 2026-08-14
 
 ```
