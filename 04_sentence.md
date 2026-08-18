@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-18
+
+```
+AAA is having a housewarming party this Thursday.
+```
+
+- AAA가 이번 주 목요일에 집들이를 합니다.
+  - housewarming party : 집들이 파티
+
+<br>
+
 ## 2026-08-17
 
 ```
