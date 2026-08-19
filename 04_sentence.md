@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-19
+
+```
+It semms like we've moved everything.
+```
+
+- 모든 것을 옮긴 것 같은데요.
+  - seem like : ~처럼 보인다. ~인 것 같다.
+
+<br>
+
 ## 2026-08-18
 
 ```
