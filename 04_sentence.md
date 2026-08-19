@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-20
+
+```
+There are no more openings for the class.
+```
+
+- 이 수업에는 더 이상 빈 자리가 없습니다.
+  - opening : 빈자리, 여지, 결원
+
+<br>
+
 ## 2026-08-19
 
 ```
