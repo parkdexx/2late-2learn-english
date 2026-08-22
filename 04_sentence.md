@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-22
+
+```
+I'm having a lot of problems with it.
+```
+
+- 그것 때문에 문제가 많이 생기고 있어요.
+  - have problems : 문제가 생기다, 어려움을 겪다.
+
+<br>
+
 ## 2026-08-21
 
 ```
