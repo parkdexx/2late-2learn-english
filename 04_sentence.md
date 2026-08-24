@@ -6,6 +6,19 @@
 
 <br>
 
+## 2026-08-25
+
+```
+I'm cooking pizza and pasta.
+Do you like both of them?
+```
+
+- 피자와 파스타를 요리하고 있어요.
+- 둘 다 좋아해요?
+  - both : 둘 다
+
+<br>
+
 ## 2026-08-24
 
 ```
