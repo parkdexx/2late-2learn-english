@@ -6,6 +6,21 @@
 
 <br>
 
+## 2026-08-24
+
+```
+The flight was delayed for several hours due to extreme weather conditions.
+```
+
+- 항공편이 악천후로 인해 몇 시간 동안 지연되었습니다.
+  - delay : 지연시키다, 지연되다
+  - several : 몇몇의, 수명의, 수개의
+  - due to : ~ 때문에
+  - extreme : 극심한, 지나친
+  - weather condition : 기상 상황
+
+<br>
+
 ## 2026-08-22
 
 ```
