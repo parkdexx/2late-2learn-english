@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-08-26
+
+```
+It's so nice to eat out and have time together.
+```
+
+- 외식하고 함께 시간을 보내니 정말 좋네요.
+  - eat out : 외식하다
+  - have time together : 함께 시간을 보내다.
+
+<br>
+
 ## 2026-08-25
 
 ```
