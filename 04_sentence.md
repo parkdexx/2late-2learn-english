@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-27
+
+```
+I'd like to receive your internet service.
+```
+
+- 인터넷 서비스를 신청하고 싶습니다.
+  - receive : 받다, 수령하다
+
+<br>
+
 ## 2026-08-26
 
 ```
