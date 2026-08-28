@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-28
+
+```
+How did you get interested in hiking?
+```
+
+- 등산에 어떻게 관심을 갖게 되었나요?
+  - get interested in ~ : ~에 관심을 갖게 되다
+
+<br>
+
 ## 2026-08-27
 
 ```
