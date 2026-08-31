@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-08-31
+
+```
+I have nothing to do.
+```
+
+- 할 일이 없어요.
+  - have nothing to do : 할 일이 없다.
+
+<br>
+
 ## 2026-08-28
 
 ```
