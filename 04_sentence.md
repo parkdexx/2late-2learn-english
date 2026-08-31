@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-09-01
+
+```
+Did you attend the conference in New York last Tuesday?
+```
+
+- 지난주 화요일에 뉴욕에서 열린 컨퍼런스에 참석했니?
+  - attend : 참석하다
+
+<br>
+
 ## 2026-08-31
 
 ```
