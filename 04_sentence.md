@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-09-04
+
+```
+I have never been to Switzerland.
+```
+
+- 스위스에는 가 본 적이 없어요.
+  - have never been to : ~에 가 본 적이 없다.
+
+<br>
+
 ## 2026-09-01
 
 ```
