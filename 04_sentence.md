@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-09-05
+
+```
+How do you spend your free time?
+```
+
+- 여가 시간에 무엇을 하며 보내세요?
+  - spend : 소비하다, 보내다
+  - free time : 여가 시간
+
+<br>
+
 ## 2026-09-04
 
 ```
