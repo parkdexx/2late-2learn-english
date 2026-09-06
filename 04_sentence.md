@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-09-06
+
+```
+What are your plans for the summer break?
+```
+
+- 여름 방학 계획은 어떻게 되나요?
+  - summer break : 여름 방학
+  - plan : 계획
+
+<br>
+
 ## 2026-09-05
 
 ```
