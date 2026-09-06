@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-09-07
+
+```
+Just thinking about it is making my mouth water!
+```
+
+- 생각만 해도 군침이 도네요!
+  - make one's mouth water : 입에 침이 고이게 하다, 군침돌게 하다.
+
+<br>
+
 ## 2026-09-06
 
 ```
