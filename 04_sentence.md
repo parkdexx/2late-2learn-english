@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-09-14
+
+```
+My sister loves hiking and she got me into hiking.
+```
+
+- 내 여동생은 하이킹을 좋아해 그리고 나를 하이킹에 빠지게 만들었어.
+  - get someone into ~ : 누군가를 ~에 빠지게 만들다, 관심을 갖게 하다.
+
+<br>
+
 ## 2026-09-11
 
 ```
