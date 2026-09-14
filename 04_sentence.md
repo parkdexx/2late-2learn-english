@@ -6,6 +6,26 @@
 
 <br>
 
+## 2026-09-15
+
+```
+Let me take you on a tour of the office.
+```
+
+- 사무실을 둘러보게 해줄게.
+  - take someone on a tour : ~에게 안내를 하다, 관광을 시켜주다.
+
+<br>
+
+```
+This is where you clock in.
+```
+
+- 이곳이 출퇴근 기록을 하는 곳이야.
+  - clock in : 출근 기록을 하다, (업무를) 시작하다.
+
+<br>
+
 ## 2026-09-14
 
 ```
