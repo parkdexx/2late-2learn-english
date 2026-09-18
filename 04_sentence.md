@@ -6,6 +6,19 @@
 
 <br>
 
+## 2026-09-18
+
+```
+My fridge broke down and my TV set is on the blink.
+```
+
+- 냉장고가 고장났고 TV도 말썽이에요.
+  - break down : 고장나다
+  - on the blink : 고장이 나서 오작동하는, 삐걱거리는, 이상이 있는
+  - TV set : 텔레비전
+
+<br>
+
 ## 2026-09-16
 
 ```
