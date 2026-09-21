@@ -6,6 +6,19 @@
 
 <br>
 
+## 2026-09-21
+
+```
+The traffic jam will probably be terrible since it's Chuseok.
+```
+
+- 추석이라 교통 체증이 아마 심할 거예요.
+  - traffic jam : 교통 체증
+  - probably : 아마도
+  - terrible : 끔찍한, 심한
+
+<br>
+
 ## 2026-09-19
 
 ```
