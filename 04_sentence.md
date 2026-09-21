@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-09-22
+
+```
+Please take your hairpin out.
+```
+
+- 머리핀을 빼주세요.
+  - hairpin : 머리핀
+  - take out : 꺼내다, 빼다.
+
+<br>
+
 ## 2026-09-21
 
 ```
