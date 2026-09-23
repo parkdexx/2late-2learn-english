@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-09-23
+
+```
+It's only been a few days. You will get used to it.
+```
+
+- 겨우 며칠 됐잖아요. 곧 익숙해질 거예요.
+  - get used to : ~에 익숙해지다.
+
+<br>
+
 ## 2026-09-22
 
 ```
