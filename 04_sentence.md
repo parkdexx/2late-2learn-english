@@ -4,6 +4,20 @@
 
 ----------
 
+## 2026-10-01
+
+```
+We can pencil it in for a Christmas trip in a few years' time.
+```
+
+- 몇 년 후 크리스마스 여행으로 정해 놓을 수 있어요.
+  - pencil in : ~을 (잠정적으로) 정하다, (일정 등에) ~을 기입해두다.
+    - 연필로 살짝 써놓는다는 뉘앙스에서 유래
+  - in a few years' time : 몇 년 후에
+    - 형용사 'few'의 복수형에 붙은 's'가 'time'을 소유하고 있다는 의미
+    - "a few minutes' time" (몇 분 후에) 와 같은 표현이 일반적
+    - 'a few years' time'도 같은 문법적 구조
+
 <br>
 
 ## 2026-09-28
