@@ -6,6 +6,21 @@
 
 <br>
 
+## 2026-10-06
+
+```
+It sounds like you have some congestion in your lungs.
+```
+
+- 폐에 가래가 좀 낀 것 같네요.
+  - congestion : 혼잡, 충혈, 울혈, 막힘
+    - 이 문맥에서는 '폐에 가래가 차서 답답한 느낌'을 의미한다.
+    - 'chest congestion' (흉부 울혈, 가슴 답답증) 과 같은 의학적 용어에서도 쓰인다.
+    - 비유적으로 'congestion in my schedule' (일정이 꽉 막힘) 으로도 활용된다.
+  - in your lungs : 폐에
+
+<br>
+
 ## 2026-10-02
 
 ```
