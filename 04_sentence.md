@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-10-07
+
+```
+I think somebody broke into the house.
+```
+
+- 누군가 집에 침입한 것 같아.
+  - break into : 침입하다, 침입해서 훔치다
+
+<br>
+
 ## 2026-10-06
 
 ```
