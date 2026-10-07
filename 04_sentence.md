@@ -6,6 +6,18 @@
 
 <br>
 
+## 2026-10-08
+
+```
+Would you like a second helping of salmon?
+```
+
+- 연어 더 드시겠어요?
+  - helping : 1회 제공량, 1인분 (주로 음식에 사용)
+  - second helping : 1회 제공량의 2배 분량 → '더 먹을래?', '더 줄까?' 라는 의미로 확장
+
+<br>
+
 ## 2026-10-07
 
 ```
