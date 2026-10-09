@@ -6,6 +6,17 @@
 
 <br>
 
+## 2026-10-09
+
+```
+I'm getting goosebumps.
+```
+
+- 소름 돋았어.
+  - goosebumps : 소름
+
+<br>
+
 ## 2026-10-08
 
 ```
