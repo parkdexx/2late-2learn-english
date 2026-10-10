@@ -6,6 +6,20 @@
 
 <br>
 
+## 2026-10-10
+
+```
+If you are in the market for a laptop computer, 
+an acquaintance of mine is selling his laptop.
+```
+
+- 노트북 컴퓨터를 구매할 생각이 있다면, 제 지인 중 한 명이 노트북을 팔고 있습니다.
+  - in the market for : ~을 구매할 생각이 있는, ~을 구하고 있는
+  - acquaintance : 지인
+  - of mine : 나의, 나의 것 중에
+
+<br>
+
 ## 2026-10-09
 
 ```
