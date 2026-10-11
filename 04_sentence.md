@@ -6,6 +6,21 @@
 
 <br>
 
+## 2026-10-12
+
+```
+My head's stuffed up.  
+I've got a runny nose, and I'm aching all over.
+```
+
+- 코가 막혔어.  
+  - stuff up : 막히게 하다, 코가 막히다(이 문맥에서는 수동태처럼 쓰여서 '머리가 막혔다' → 코막힘을 의미)
+- 콧물이 나고, 온몸이 쑤셔.
+  - runny nose : 콧물, 훌쩍이는 코
+  - ache all over : 온몸이 쑤시다, 온몸이 아프다
+
+<br>
+
 ## 2026-10-10
 
 ```
